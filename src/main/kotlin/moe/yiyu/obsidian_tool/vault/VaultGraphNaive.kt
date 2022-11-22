@@ -1,7 +1,7 @@
 package moe.yiyu.obsidian_tool.vault
 // 自己实现的方案，不采用第三方库，性能应该很低
 // 但是可以实现自定义的查找方案
-class VaultGraphNaive {
+class VaultGraphNaive:VaultGraph {
     var nodes: List<VaultGraphNode> = mutableListOf()
     fun addNode(node: VaultGraphNode) {
         nodes = nodes.plus(node)
@@ -95,6 +95,9 @@ class VaultGraphNaive {
         return connectedComponents
     }
 
+    /**
+     * 找出所有的入度为0的节点，获得的就是孤立节点
+     */
     fun findOrphanNodes(): List<VaultGraphNode> {
         return nodes.filter { it.inNeighbors.isEmpty() }
     }
