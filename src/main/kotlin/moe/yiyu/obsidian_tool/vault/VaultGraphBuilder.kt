@@ -1,7 +1,7 @@
 package moe.yiyu.obsidian_tool.vault
 
 class VaultGraphBuilder {
-    private var graph:VaultGraph = VaultGraphHighPerformance()
+    private lateinit var graph: VaultGraph
     constructor(choice: String) {
         when (choice) {
             "naive" -> graph = VaultGraphNaive()

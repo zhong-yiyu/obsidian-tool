@@ -9,6 +9,7 @@ class BackLink {
     constructor(input: String) {
         this.rawLink = input
         if (this.rawLink.contains("#") and this.rawLink.contains("|")) {
+            println(input)
             this.dualHandler()
         } else if (this.rawLink.contains("#") and !this.rawLink.contains("|")) {
             println("Anchor Handler")

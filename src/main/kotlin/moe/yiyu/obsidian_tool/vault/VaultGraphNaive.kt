@@ -65,6 +65,26 @@ class VaultGraphNaive:VaultGraph {
         return connectedComponents
     }
 
+
+    fun tmp(node:VaultGraphNode,visitedNodes:MutableList<VaultGraphNode>):MutableList<VaultGraphNode>{
+        val connectedComponent = mutableListOf<VaultGraphNode>()
+        connectedComponent.add(node)
+        visitedNodes.add(node)
+        val queue = mutableListOf<VaultGraphNode>()
+        queue.add(node)
+        while(queue.isNotEmpty()){
+            val currentNode = queue.removeAt(0)
+            currentNode.outNeighbors.forEach { neighbor ->
+                if (!visitedNodes.contains(neighbor)) {
+                    neighbor?.let { connectedComponent.add(it) }
+                    neighbor?.let { visitedNodes.add(it) }
+                    neighbor?.let { queue.add(it) }
+                }
+            }
+        }
+        return connectedComponent
+
+    }
     /**
      * 找出所有的强连通分量
      */
@@ -73,21 +93,22 @@ class VaultGraphNaive:VaultGraph {
         val visitedNodes = mutableListOf<VaultGraphNode>()
         nodes.forEach { node ->
             if (!visitedNodes.contains(node)) {
-                val connectedComponent = mutableListOf<VaultGraphNode>()
-                connectedComponent.add(node)
-                visitedNodes.add(node)
-                val queue = mutableListOf<VaultGraphNode>()
-                queue.add(node)
-                while (queue.isNotEmpty()) {
-                    val currentNode = queue.removeAt(0)
-                    currentNode.outNeighbors.forEach { neighbor ->
-                        if (!visitedNodes.contains(neighbor)) {
-                            neighbor?.let { connectedComponent.add(it) }
-                            neighbor?.let { visitedNodes.add(it) }
-                            neighbor?.let { queue.add(it) }
-                        }
-                    }
-                }
+                val connectedComponent = tmp(node,visitedNodes)
+//                val connectedComponent = mutableListOf<VaultGraphNode>()
+//                connectedComponent.add(node)
+//                visitedNodes.add(node)
+//                val queue = mutableListOf<VaultGraphNode>()
+//                queue.add(node)
+//                while (queue.isNotEmpty()) {
+//                    val currentNode = queue.removeAt(0)
+//                    currentNode.outNeighbors.forEach { neighbor ->
+//                        if (!visitedNodes.contains(neighbor)) {
+//                            neighbor?.let { connectedComponent.add(it) }
+//                            neighbor?.let { visitedNodes.add(it) }
+//                            neighbor?.let { queue.add(it) }
+//                        }
+//                    }
+//                }
                 connectedComponents.add(connectedComponent)
             }
 
