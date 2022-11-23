@@ -36,6 +36,11 @@ class Document(file: MarkdownFile) {
         return null
     }
 
+    fun getHTTPLinks():List<String>{
+//        Get all HTTP links in the content starting with "http" or "https"
+        return this.content.split(" ").filter { it.startsWith("http") }
+    }
+
     fun hasCodeBlocks(): Boolean {
         return this.content.contains("```")
     }
