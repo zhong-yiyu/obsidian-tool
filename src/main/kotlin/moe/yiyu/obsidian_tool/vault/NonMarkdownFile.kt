@@ -12,4 +12,8 @@ class NonMarkdownFile(vaultFile: File) :VaultFile{
     init {
         this.name = vaultFile.name
     }
+
+    fun getExtension(): String {
+        return this.file.extension
+    }
 }

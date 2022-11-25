@@ -1,6 +1,5 @@
 package moe.yiyu.obsidian_tool.vault
 
-import java.io.File
 import java.nio.file.Files
 import java.nio.file.Path
 import kotlin.io.path.Path
@@ -71,6 +70,6 @@ fun renderDocumentToHTML(doc:Document){
     val tmpPath = Path(System.getProperty("user.dir")).resolve("tmp")
 //    the html file is under the tmp Path, name with doc title
     val htmlFile = tmpPath.resolve(doc.title+".html").toFile()
-//    TODO:添加真正的Markdown到HTML的渲染器，还要转换路径
+//    TODO:添加真正的Markdown到HTML的渲染器，还要把wikilink的格式换成普通的模式
     htmlFile.writeText(html)
 }
