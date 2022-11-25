@@ -7,7 +7,7 @@ class CodeBlock//        输入的是整个代码块，包含了```和语言标�
     var language:String
 
     init {
-        this.language = raw_input.split("\n")[0].replace("```","")
+        this.language = raw_input.split("\n")[0].replace("```","").trim()
         val codeTmp = raw_input.replace("```$language","").replace("```","")
         this.code = codeTmp.split("\n").drop(1).dropLast(1).joinToString("\n")
     }

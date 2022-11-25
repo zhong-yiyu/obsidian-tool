@@ -35,4 +35,16 @@ class CodeBlockTest{
         val documentD = Document(MarkdownFile(File("src/test/resources/D.md")))
         assertEquals(3,documentD.findAllCodeBlocks().size)
     }
+
+    @Test
+    fun testCodeLanguagesList(){
+        val documentB = Document(MarkdownFile(File("src/test/resources/B.md")))
+        val codeListB = documentB.findAllCodeBlocks()
+        assertEquals("python",codeListB[0].language)
+        val documentD = Document(MarkdownFile(File("src/test/resources/D.md")))
+        val codeListD = documentD.findAllCodeBlocks()
+        assertEquals("python",codeListD[0].language)
+        assertEquals("javascript",codeListD[1].language)
+        assertEquals("ruby",codeListD[2].language)
+    }
 }
