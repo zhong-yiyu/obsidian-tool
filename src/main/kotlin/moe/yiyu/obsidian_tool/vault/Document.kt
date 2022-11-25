@@ -37,11 +37,26 @@ class Document(file: MarkdownFile) {
     }
 
     fun hasCodeBlocks(): Boolean {
-        return this.content.contains("```")
+//        Find the occurrence of ``` in the content
+        if (this.content.contains("```")) {
+            return this.content.split("```").size >= 3
+        } else {
+            return false
+        }
     }
     fun getCodeBlockLanguage(): String {
             val codeBlock = this.content.split("```")[1]
 //            println(codeBlock.split("\n")[0])
             return codeBlock.split("\n")[0]
     }
+
+    fun findAllCodeBlocks():List<CodeBlock> {
+        val codeBlocks = mutableListOf<CodeBlock>()
+        val codeBlockList = this.content.split("```")
+        for (i in 1 until codeBlockList.size step 2) {
+            codeBlocks.add(CodeBlock(codeBlockList[i]))
+        }
+        return codeBlocks
+    }
+
 }

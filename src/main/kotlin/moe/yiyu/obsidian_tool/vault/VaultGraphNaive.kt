@@ -94,21 +94,6 @@ class VaultGraphNaive:VaultGraph {
         nodes.forEach { node ->
             if (!visitedNodes.contains(node)) {
                 val connectedComponent = tmp(node,visitedNodes)
-//                val connectedComponent = mutableListOf<VaultGraphNode>()
-//                connectedComponent.add(node)
-//                visitedNodes.add(node)
-//                val queue = mutableListOf<VaultGraphNode>()
-//                queue.add(node)
-//                while (queue.isNotEmpty()) {
-//                    val currentNode = queue.removeAt(0)
-//                    currentNode.outNeighbors.forEach { neighbor ->
-//                        if (!visitedNodes.contains(neighbor)) {
-//                            neighbor?.let { connectedComponent.add(it) }
-//                            neighbor?.let { visitedNodes.add(it) }
-//                            neighbor?.let { queue.add(it) }
-//                        }
-//                    }
-//                }
                 connectedComponents.add(connectedComponent)
             }
 

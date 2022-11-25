@@ -19,17 +19,17 @@ class BackLink {
         }
     }
 
-    fun anchorHandler() {
+    private fun anchorHandler() {
         this.anchor = this.rawLink.split("#")[1]
         this.link = this.rawLink.split("#")[0]
     }
 
-    fun aliasHandler() {
+    private fun aliasHandler() {
         this.link = this.rawLink.split("|")[0]
         this.alias = this.rawLink.split("|")[1]
     }
 
-    fun dualHandler() {
+    private fun dualHandler() {
         this.link = this.rawLink.split("|")[0]
         val tmp = this.rawLink.split("|")[1]
         this.alias = tmp.split("#")[0]
