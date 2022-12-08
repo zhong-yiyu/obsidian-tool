@@ -1,0 +1,7278 @@
+[
+    {
+        "filename": "knowledge/2022-10月追番列表.md",
+        "link": [
+            "pop子和pipi美的日常",
+            "孤独摇滚",
+            "秋叶原冥途战争",
+            "机动战士高达：水星的魔女",
+            "赛马娘Pretty Derby",
+            "电锯人",
+            "无良工会",
+            "登山少女",
+            "新米炼金术师的店铺经营"
+        ]
+    },
+    {
+        "filename": "knowledge/404.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Apache Cassandra_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/BCS Conduct.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Ahead Of Time Compilation.md",
+        "link": [
+            "Just in Time Compilation",
+            "C",
+            "Rust_TODO",
+            "Golang",
+            "Haskell",
+            "运行时和虚拟机和解释器|Runtime"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Alpine Linux.md",
+        "link": [
+            "Linux Distro",
+            "Docker",
+            "GLibC",
+            "Musl LibC"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Anonymous Function.md",
+        "link": [
+            "Functional",
+            "Lisp"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Apache Cassandra_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Apache Hadoop.md",
+        "link": [
+            "Java",
+            "Apache Spark"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Apache Hive.md",
+        "link": [
+            "Apache Hadoop",
+            "Map-Reduce"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Apache Kafka.md",
+        "link": [
+            "Java",
+            "消息队列",
+            "Apache Zookeeper"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Apache Maven.md",
+        "link": [
+            "JUnit",
+            "头文件"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Apache Spark.md",
+        "link": [
+            "Scala",
+            "Resilient Distributed Dataset",
+            "Apache Hadoop",
+            "Map-Reduce"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Apache Zookeeper.md",
+        "link": [
+            "Apache Hadoop"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Arch Linux.md",
+        "link": [
+            "Linux Distro",
+            "滚动发行",
+            "Manjaro Linux",
+            "msys2",
+            "Alpine Linux",
+            "HomeBrew"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/AssemblyScript.md",
+        "link": [
+            "Typescript",
+            "WebAssembly",
+            "WebAssembly"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Astro.md",
+        "link": [
+            "Javascript",
+            "HTML"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Aurora DB.md",
+        "link": [
+            "AWS",
+            "MySQL"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/BEAM.md",
+        "link": [
+            "Erlang",
+            "OTP",
+            "Elixir",
+            "Java",
+            "mutable"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Back Propagation_TODO.md",
+        "link": [
+            "Forward Propagation_TODO",
+            "人工神经网络",
+            "Gradient Decent梯度下降法",
+            "损失函数",
+            "链式法则",
+            "张量",
+            "链式法则",
+            "Forward Propagation_TODO",
+            "Forward Propagation_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Back Propagation反向传播.md",
+        "link": [
+            "Forward Propagation正向传播",
+            "人工神经网络",
+            "Gradient Decent梯度下降法",
+            "损失函数",
+            "链式法则",
+            "张量",
+            "链式法则",
+            "Forward Propagation正向传播",
+            "Forward Propagation正向传播",
+            "Forward Propagation|正向传播",
+            "Gradient Descent|梯度下降算法"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Bag-of-Words.md",
+        "link": [
+            "Natural Language Processing",
+            "Information Retrieval",
+            "Computer Science/Bayes Theorem",
+            "Computer Vision_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Agglomerative Clustering.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/BA model.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Big Scale Deep Learning.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Classification.md",
+        "link": [
+            "SVM|Support Vector Machine"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Clustering聚类.md",
+        "link": [
+            "Image Segmentation|Segmentation",
+            "图片压缩",
+            "Principle Component Analysis"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Curse of Dimensionality.md",
+        "link": [
+            "Principle Component Analysis"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/HMM.md",
+        "link": [
+            "Markov Model|隐马尔可夫模型"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/K Mean.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Markov Model.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Model-free machine learning.md",
+        "link": [
+            "Principle Component Analysis",
+            "Clustering聚类",
+            "SVM|Support Vector Machine",
+            "Computer Science/Big Data/Neural Network"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Network Degree Distribution.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Network Types.md",
+        "link": [
+            "Random Network",
+            "Scale Free Network"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Neural Network.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Random Network.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/SVM.md",
+        "link": [
+            "Classification",
+            "Clustering聚类"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Scale Free Network.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Big Data/Type of Dataset.md",
+        "link": [
+            "Principle Component Analysis"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/BoltDB.md",
+        "link": [
+            "Golang",
+            "键值存储",
+            "MySQL",
+            "API",
+            "Sqlite_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/BootLoader TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/C Runtime.md",
+        "link": [
+            "Assembly",
+            "Entry Point_TODO",
+            "Assembly",
+            "Linker"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/CFFI.md",
+        "link": [
+            "Python_TODO",
+            "语言绑定",
+            "C",
+            "Cython"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/CICD_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/CMS.md",
+        "link": [
+            "Headless",
+            "PHP",
+            "JAMStack",
+            "解耦"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/CMSϵͳ.md",
+        "link": [
+            "Headless",
+            "PHP",
+            "JAMStack",
+            "解耦"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/CRUD.md",
+        "link": [
+            "NoSQL"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Cache.md",
+        "link": [
+            "时空转换",
+            "Content Delivery Network|CDN"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/CircleCI.md",
+        "link": [
+            "CICD_TODO",
+            "DarkLang",
+            "Clojure",
+            "vendor lock-in"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Clang_TODO.md",
+        "link": [
+            "LLVM",
+            "GCC"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/CloudFlare.md",
+        "link": [
+            "拒绝服务攻击"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/CockroachDB.md",
+        "link": [
+            "Google Spanner"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/CommonJS和ESM.md",
+        "link": [
+            "Javascript",
+            "Node.js"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Computational Notebook.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Computer Vision/Convolution Neural Network.md",
+        "link": [
+            "Computer Science/Big Data/Neural Network|神经网络"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Computer Vision/Edge Detection边缘检测.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Computer Vision/Gradient Descent.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Computer Vision/Image Filtering.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Computer Vision/Image Formation.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Computer Vision/Low Level Vision.md",
+        "link": [
+            "Convolution Neural Network|CNN"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Computer Vision/Neural Network.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Computer Vision_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Content Delivery Network.md",
+        "link": [
+            "Cache|缓存",
+            "边缘计算"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Content Management System.md",
+        "link": [
+            "Content Delivery Network|CDN"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Cryptography.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Database/Database.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Database/Indexing.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Database/Query Processing.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Database/Query数据库查询.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Linear Algebra/Eigen Decomposition 特征分解.md",
+        "link": [
+            "Eigenvalues特征值",
+            "Singular Matrix",
+            "Singular Value Decomposition奇异值分解"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Linear Algebra/Eigenvalues特征值.md",
+        "link": [
+            "Numpy",
+            "Eigen Decomposition 特征分解"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Linear Algebra/Matrix Inversion逆矩阵.md",
+        "link": [
+            "Numpy"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Linear Algebra/Singular Value Decomposition奇异值分解.md",
+        "link": [
+            "Numpy",
+            "Data Science"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Linear Algebra/Vector Space.md",
+        "link": [
+            "Normalization",
+            "Numpy",
+            "Normalization"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Normal Distribution正态分布.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Optimization优化/Continuous Optimization连续优化.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Optimization优化/First-Order Optimization一阶优化.md",
+        "link": [
+            "人工神经网络",
+            "MetaHeuristic元启发式",
+            "Gradient Decent梯度下降法",
+            "Automatic Differentiation自动微分"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Optimization优化/Gradient Decent梯度下降法.md",
+        "link": [
+            "Gradient",
+            "First Order Optimization",
+            "超参数",
+            "First Order Optimization",
+            "Stochastic Gradient Descent随机梯度下降",
+            "Mini-Batch Gradient Descent"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Optimization优化/Gradient.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Optimization优化/Least Squares最小二乘法.md",
+        "link": [
+            "Euclidean distance"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Optimization优化/MetaHeuristic元启发式.md",
+        "link": [
+            "Random Search",
+            "Simulated Annealing模拟退火算法"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Optimization优化/Optimisation优化.md",
+        "link": [
+            "Least Squares最小二乘法",
+            "Bogo Sorting",
+            "Normalization",
+            "Discrete Optimization离散优化",
+            "Continuous Optimization连续优化",
+            "Least Squares最小二乘法",
+            "Gradient Decent梯度下降法"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Optimization优化/Stochastic Gradient Descent随机梯度下降.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Principle Component Analysis.md",
+        "link": [
+            "Curse of Dimensionality",
+            "Principle Component Analysis",
+            "Covariance协方差",
+            "Covariance协方差"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Probability/Bayes Theorem贝叶斯定理.md",
+        "link": [
+            "统计学"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Probability/Bayesian Inference贝叶斯推断.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Probability/Inference.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Probability/Linear Regression线性回归.md",
+        "link": [
+            "Least Squares最小二乘法",
+            "Least Squares最小二乘法"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Probability/Monte Carlo Method蒙特卡罗方法.md",
+        "link": [
+            "确定性算法"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Probability/Probability Density Function概率密度函数.md",
+        "link": [
+            "Bayes Theorem贝叶斯定理"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Probability/Probability Mass Function概率质量函数.md",
+        "link": [
+            "Probability Density Function概率密度函数",
+            "Pasted image 20221122100402.png"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Data Science数据科学/Probability/Probability概率论.md",
+        "link": [
+            "Probability Mass Function概率质量函数",
+            "Probability Density Function概率密度函数",
+            "Expectation期望值"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Debian.md",
+        "link": [
+            "Linux Distro",
+            "Ubuntu"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Decorator.md",
+        "link": [
+            "Python_TODO",
+            "Typescript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Dependency-Injection.md",
+        "link": [
+            "Inversion-of-Control"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Directed Acyclic Graph_TODO.md",
+        "link": [
+            "Blaze系构建工具"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Directed Acyclic Graph有向无环图.md",
+        "link": [
+            "Blaze系构建工具"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/DroneCI.md",
+        "link": [
+            "Golang",
+            "CICD_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Business.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Cloud Computing.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Common Attack Pattern Enumeration and Classification.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Cyber Risk.md",
+        "link": [
+            "Cyber Space"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Deployment Models.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Enterprise Architecture.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Index.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Legislation.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Metrics.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Policies.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Risk Assessment.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Security and Privacy of Cloud Computing.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/Service Models.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/System Thinking.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/ECS/往年卷子总结.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/EJS.md",
+        "link": [
+            "Template Language|模板语言",
+            "Javascript",
+            "HTML"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/ES4X.md",
+        "link": [
+            "GraalVM",
+            "Javascript",
+            "Node.js",
+            "vert.X",
+            "Event Loop",
+            "GraalVM"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/ElasticSearch_TODO.md",
+        "link": [
+            "Apache Lucene"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Electron.md",
+        "link": [
+            "Node.js",
+            "Chromium",
+            "V8(Javascript Engine)"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Entry Point_TODO.md",
+        "link": [
+            "BootLoader TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Epoll.md",
+        "link": [
+            "Golang",
+            "Nginx_TODO",
+            "Linux Kernel",
+            "Golang",
+            "Event Loop"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Event Loop.md",
+        "link": [
+            "V8(Javascript Engine)"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/FUSE文件系统_TODO.md",
+        "link": [
+            "用户空间"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Flutter.md",
+        "link": [
+            "Dartlang",
+            "Javascript",
+            "SKIA"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Forward Propagation_TODO.md",
+        "link": [
+            "Neuron",
+            "激活函数",
+            "损失函数"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Forward Propagation正向传播.md",
+        "link": [
+            "Neuron",
+            "激活函数",
+            "损失函数"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Foundation Model.md",
+        "link": [
+            "GPT",
+            "DALL-E"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/GCC.md",
+        "link": [
+            "Clang_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Garbage Collection.md",
+        "link": [
+            "Lisp",
+            "boehmGC",
+            "C"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Godot.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Google Spanner.md",
+        "link": [
+            "Google",
+            "GCP",
+            "原子钟"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Gradle.md",
+        "link": [
+            "Java Virtual Machine",
+            "Apache Maven",
+            "XML",
+            "DSL",
+            "Android",
+            "Kotlin",
+            "Groovy"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Gradual Typing.md",
+        "link": [
+            "Type System",
+            "Python_TODO",
+            "Typescript",
+            "Javascript",
+            "Hack Language",
+            "PHP",
+            "PHP",
+            "Racket",
+            "Clojure",
+            "Cython",
+            "Python_TODO",
+            "CSharp",
+            "Rakudo"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Graph Theory图论/共通的知识和符号.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Graph Theory图论/可能的题目类型.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Graph Theory图论/复杂网络在全局范围内的结构.md",
+        "link": [
+            "共通的知识和符号|Closeness Centrality",
+            "diameter_algorithm_1.png|300x300",
+            "diameter_algorithm_2.png|300x300",
+            "二八定律"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Graph Theory图论/如何判定一组Node在网络中的重要性.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Graph Theory图论/总复习.md",
+        "link": [
+            "Price-Preferential.jpg",
+            "HITS排名.jpg",
+            "PageRank.jpg"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Graph Theory图论/有向图.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Graph Theory图论/联通网络.md",
+        "link": [
+            "Kosaraju算法.jpg"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Graph Theory图论/节点的重要性.md",
+        "link": [
+            "共通的知识和符号"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Hack Language.md",
+        "link": [
+            "Meta",
+            "PHP",
+            "HHVM",
+            "Meta",
+            "PHP"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Hamming Weights.md",
+        "link": [
+            "Hamming distance",
+            "Cryptography"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Hamming distance.md",
+        "link": [
+            "Hamming Weights"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Headless.md",
+        "link": [
+            "API"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Higher-Order Function.md",
+        "link": [
+            "Javascript",
+            "Anonymous Function"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Inversion-of-Control.md",
+        "link": [
+            "Dependency-Injection",
+            "Spring-Framework",
+            "XML"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/JAX.md",
+        "link": [
+            "TensorFlow",
+            "Back Propagation反向传播",
+            "ReLU"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/JSDoc.md",
+        "link": [
+            "Javascript",
+            "Typescript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/JSON.md",
+        "link": [
+            "Javascript",
+            "Protobuf",
+            "RPC",
+            "Java"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Java ArrayList.md",
+        "link": [
+            "Java List",
+            "Java",
+            "泛型"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Java LinkedList.md",
+        "link": [
+            "Java List",
+            "Java Deque"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Java Server Page.md",
+        "link": [
+            "PHP",
+            "Server Side Rendering"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Java Virtual Machine.md",
+        "link": [
+            "Java",
+            "OpenJDK",
+            "OpenJ9",
+            "OpenJDK",
+            "Garbage Collection",
+            "ZGC"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Java容器.md",
+        "link": [
+            "Java",
+            "Java ArrayList",
+            "Java LinkedList"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Java并没有想象的那么臃肿.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Jupyter Lab.md",
+        "link": [
+            "Jupyter Notebook",
+            "Python_TODO",
+            "iPython"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Jupyter Notebook.md",
+        "link": [
+            "Computational Notebook",
+            "iPython"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/K-Means Clustering.md",
+        "link": [
+            "NP困难"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/KNN.md",
+        "link": [
+            "K-Means Clustering",
+            "Classification 分类问题",
+            "Regression 回归问题"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Lambda是新的基础设施.md",
+        "link": [
+            "AWS",
+            "AWS Dynamo",
+            "AWS S3",
+            "EC2",
+            "AWS Lambda"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Lerna.md",
+        "link": [
+            "Meta",
+            "Monorepo"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Libuv.md",
+        "link": [
+            "Event Loop"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Linux Distro.md",
+        "link": [
+            "包管理器",
+            "Debian",
+            "Red Hat",
+            "Arch Linux",
+            "Arch Linux",
+            "Ubuntu"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Linux Kernel.md",
+        "link": [
+            "Rust_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Lombok插件系统_TODO.md",
+        "link": [
+            "Java"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Machine Learning.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Markdown.md",
+        "link": [
+            "HTML"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Minikube.md",
+        "link": [
+            "Kubernetes"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/MongoDB.md",
+        "link": [
+            "WiredTiger"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Monorepo和构建工具/Bazel.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Monorepo和构建工具/Blaze系构建工具.md",
+        "link": [
+            "Cache",
+            "配置语言",
+            "Bazel",
+            "Java",
+            "Pants",
+            "Python_TODO",
+            "Rust_TODO",
+            "Please",
+            "Buck",
+            "Java"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Monorepo和构建工具/Buck.md",
+        "link": [
+            "Bazel"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Monorepo和构建工具/Monorepo.md",
+        "link": [
+            "Blaze系构建工具",
+            "Bazel",
+            "Pants",
+            "Buck",
+            "Please",
+            "Gradle",
+            "Lerna",
+            "Meta",
+            "Nx",
+            "TurboRepo",
+            "CICD_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Monorepo和构建工具/Nx.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Monorepo和构建工具/Pants.md",
+        "link": [
+            "Python_TODO",
+            "Rust_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Monorepo和构建工具/Please.md",
+        "link": [
+            "Golang",
+            "Java",
+            "Bazel",
+            "Buck"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Monorepo和构建工具/TurboRepo.md",
+        "link": [
+            "Monorepo",
+            "Vercel",
+            "Nx"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/MySQL.md",
+        "link": [
+            "innoDB",
+            "存储引擎",
+            "RocksDB",
+            "PostgreSQL",
+            "Aurora DB"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/NestJS.md",
+        "link": [
+            "Typescript",
+            "Spring-Framework",
+            "Javascript",
+            "Node.js"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/NextJS.md",
+        "link": [
+            "Vercel",
+            "React",
+            "NuxtJS",
+            "Vue",
+            "SvelteKit",
+            "Svelte"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Nginx_TODO.md",
+        "link": [
+            "负载均衡",
+            "OpenResty_TODO",
+            "Lua"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Nix.md",
+        "link": [
+            "基础设施即代码",
+            "Haskell",
+            "Functional",
+            "Ruby",
+            "HomeBrew"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/NoSQL.md",
+        "link": [
+            "MongoDB"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Node.js.md",
+        "link": [
+            "V8(Javascript Engine)",
+            "Javascript",
+            "Deno",
+            "bun.js",
+            "Python_TODO",
+            "Ruby"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Numpy.md",
+        "link": [
+            "Python_TODO",
+            "C",
+            "JAX",
+            "SciPy",
+            "Pandas",
+            "Scikit-learn",
+            "Machine Learning"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/On-Stack Replacement.md",
+        "link": [
+            "Just in Time Compilation",
+            "Pyjion_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/OpenResty_TODO.md",
+        "link": [
+            "Nginx_TODO",
+            "Lua"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PEX格式.md",
+        "link": [
+            "Pants",
+            "Python_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Dhall.md",
+        "link": [
+            "Haskell",
+            "Transpiler型语言",
+            "图灵完备",
+            "停机问题"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/GraalVM.md",
+        "link": [
+            "Java",
+            "Java Virtual Machine|Java虚拟机",
+            "Just in Time Compilation",
+            "Java",
+            "ES4X",
+            "Javascript",
+            "vert.X",
+            "Partial Evaluation",
+            "Garbage Collection"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Just in Time Compilation.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/LLVM.md",
+        "link": [
+            "Clang_TODO",
+            "Java Virtual Machine",
+            "WebAssembly"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Lazy Evaluation.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Link Time Optimization.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Linker链接器的发展史.md",
+        "link": [
+            "Link Time Optimization",
+            "可执行文件里究竟有什么？|可执行文件",
+            "时空转换|空间换时间"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Partial Evaluation.md",
+        "link": [
+            "程序语言的Paradigm范式|FP",
+            "Currying|Currying",
+            "Object Oriented",
+            "Server Side Rendering"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Persistent Data Structure.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Side Effect.md",
+        "link": [
+            "程序语言的Paradigm范式|FP"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/Template Language.md",
+        "link": [
+            "Template Engine",
+            "Markdown",
+            "Liquid",
+            "handlebars",
+            "EJS",
+            "Pug"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/投机性优化.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/有限状态自动机FSM.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/类型擦除.md",
+        "link": [
+            "Typescript",
+            "Java",
+            "Transpiler型语言",
+            "Javascript",
+            "Type Checking",
+            "Babel",
+            "SWC",
+            "泛型"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/自制语言.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/PL研究/配置语言.md",
+        "link": [
+            "CUE_TODO",
+            "Dhall",
+            "Dhall",
+            "CUE_TODO",
+            "Nickel",
+            "可选类型",
+            "Blaze系构建工具"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Pandas.md",
+        "link": [
+            "Python_TODO",
+            "C",
+            "Cython"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Pebble.md",
+        "link": [
+            "CockroachDB",
+            "RocksDB",
+            "Golang"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Playwright.md",
+        "link": [
+            "Headless",
+            "Puppeteer"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Pug.md",
+        "link": [
+            "Javascript",
+            "Template Engine",
+            "HTML"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Puppeteer.md",
+        "link": [
+            "Chromium",
+            "Javascript",
+            "Playwright"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/PyPy.md",
+        "link": [
+            "Python_TODO",
+            "Just in Time Compilation|JIT",
+            "Partial Evaluation",
+            "Quickjs",
+            "WebAssembly",
+            "V8(Javascript Engine)"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Pyjion_TODO.md",
+        "link": [
+            "dotNet",
+            "Just in Time Compilation|JIT"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Python Stub.md",
+        "link": [
+            "Typescript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Quarkus_TODO.md",
+        "link": [
+            "Java",
+            "微服务",
+            "vert.X",
+            "异步",
+            "GraalVM",
+            "Just in Time Compilation|JIT"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/RISC-V.md",
+        "link": [
+            "Verilog",
+            "Chisel"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/RPC.md",
+        "link": [
+            "gRPC",
+            "Apache Thrift",
+            "Protobuf",
+            "gRPC"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Random Forest TODO.md",
+        "link": [
+            "决策树"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/ReLU.md",
+        "link": [
+            "人工神经网络",
+            "Back Propagation反向传播"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Redis.md",
+        "link": [
+            "C"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Regression 回归问题.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Reproducible.md",
+        "link": [
+            "Java",
+            "Nix"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Resilient Distributed Dataset.md",
+        "link": [
+            "Apache Spark",
+            "immutable"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Robot Perception and Control/6DOF Pose Estimation.md",
+        "link": [
+            "距离传感相机"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Robot Perception and Control/Control.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Robot Perception and Control/Grasp Detection.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Robot Perception and Control/Kinematics 机器人运动学 TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Robot Perception and Control/Reinforcement Learning.md",
+        "link": [
+            "Supervised Algorithm",
+            "Unsupervised Algorithm"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Robot Perception and Control/Trajectory Planning.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Robot Perception and Control/备考用.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Robot Perception and Control/总复习.md",
+        "link": [
+            "#6DOF Estimation",
+            "Garbage in Garbage out",
+            "#Kalman Filter",
+            "#CNN",
+            "#Censor Fusion"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/RocksDB.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Ruby on Rails.md",
+        "link": [
+            "Ruby"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Rust_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/SEL4_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/SKIA.md",
+        "link": [
+            "Google",
+            "Jetbrains",
+            "Chromium",
+            "Flutter"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/SciPy.md",
+        "link": [
+            "Numpy",
+            "符号计算"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Scikit-learn.md",
+        "link": [
+            "Python_TODO",
+            "Machine Learning",
+            "Support Vector Machine",
+            "Random Forest TODO",
+            "DBSCAN",
+            "K-Means Clustering",
+            "Gradient Boosting",
+            "KNN",
+            "Numpy",
+            "Cython",
+            "Matplotlib",
+            "pytorch"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Semantic Web 语义网/Mock-Exam-答案.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Semantic Web 语义网/SPARQL.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Semantic Web 语义网/共用知识.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Semantic Web 语义网/备考知识.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Semantic Web 语义网/总复习.md",
+        "link": [
+            "类型检查"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Semantic.md",
+        "link": [
+            "Haskell",
+            "Haskell"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Service Worker.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Sidecar.md",
+        "link": [
+            "Kubernetes"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Sir Alwyin Williams Bulding.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Spring-Boot.md",
+        "link": [
+            "Spring-Framework",
+            "Inversion-of-Control",
+            "约定优于配置",
+            "Ruby on Rails"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Spring-Framework.md",
+        "link": [
+            "Pivotal",
+            "Java",
+            "Dependency-Injection",
+            "Inversion-of-Control",
+            "Quarkus_TODO",
+            "Spring-Boot"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Sqlite_TODO.md",
+        "link": [
+            "MySQL",
+            "Serverless"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Structural Editor.md",
+        "link": [
+            "Martin Fowler"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Svelte.md",
+        "link": [
+            "VirtualDOM_TODO",
+            "Compiler",
+            "NextJS",
+            "React",
+            "Vue",
+            "React",
+            "solidJS"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Syntactic Salt.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/Syntactic Sugar.md",
+        "link": [
+            "Syntactic Salt"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/System-on-Wafer.md",
+        "link": [
+            "System on Chip",
+            "芯片封装"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Tensor Processing Unit_TODO.md",
+        "link": [
+            "Machine Learning",
+            "Machine Learning"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Terraform.md",
+        "link": [
+            "基础设施即代码",
+            "基础设施即代码"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/The boring technology behind a one-person Internet company读后感.md",
+        "link": [
+            "Python_TODO",
+            "React",
+            "SEO",
+            "Django",
+            "Ansible",
+            "Terraform",
+            "Monorepo"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/TigerBeetle.md",
+        "link": [
+            "Zig"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/TigerBeetle_TODO.md",
+        "link": [
+            "Zig"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Type Theory.md",
+        "link": [
+            "Y Combinator",
+            "Homotopy Type Theory"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Ubuntu.md",
+        "link": [
+            "Debian",
+            "Linux Distro"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Vector Space.md",
+        "link": [
+            "Normalization"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/VirtualDOM_TODO.md",
+        "link": [
+            "diff算法"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/Wolfram语言为什么不开源.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/bedrockDB_TODO.md",
+        "link": [
+            "Sqlite_TODO",
+            "RocksDB"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/boehmGC.md",
+        "link": [
+            "C",
+            "Garbage Collection"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/buildkit_TODO.md",
+        "link": [
+            "Docker"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/dapr.md",
+        "link": [
+            "Microsoft",
+            "微服务",
+            "Sidecar",
+            "gRPC"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/iPython.md",
+        "link": [
+            "Jupyter Notebook",
+            "Jupyter Lab",
+            "Python_TODO",
+            "REPL"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/innoDB.md",
+        "link": [
+            "MySQL",
+            "MariaDB"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/rot.js.md",
+        "link": [
+            "Javascript",
+            "RogueLike",
+            "游戏引擎"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/tinygo.md",
+        "link": [
+            "Golang",
+            "WebAssembly"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/vert.X.md",
+        "link": [
+            "Java",
+            "Spring-Framework",
+            "Netty",
+            "ES4X"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/word2vec.md",
+        "link": [
+            "Bag-of-Words"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/一些显而易见但容易忽视的事实（关于CS）.md",
+        "link": [
+            "GraalVM"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/不同Docker镜像的对比.md",
+        "link": [
+            "Ubuntu",
+            "Red Hat",
+            "Golang",
+            "Java",
+            "Java Virtual Machine"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/云服务相关/AWS Lambda.md",
+        "link": [
+            "Serverless",
+            "Firecracker",
+            "虚拟机的分类|虚拟机"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/云服务相关/Firecracker.md",
+        "link": [
+            "AWS Lambda",
+            "虚拟机的分类",
+            "Rust_TODO",
+            "Qemu",
+            "Java Virtual Machine"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/云服务相关/Serverless.md",
+        "link": [
+            "XXX即服务",
+            "Java",
+            "CSharp",
+            "GraalVM"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/云服务相关/XXX即服务.md",
+        "link": [
+            "Serverless|云函数",
+            "AWS Lambda",
+            "AWS S3"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/云服务相关/对象存储.md",
+        "link": [
+            "文件存储",
+            "块存储",
+            "AWS S3"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/云服务相关/消息队列.md",
+        "link": [
+            "Apache Kafka",
+            "同步阻塞IO不适合高并发|同步阻塞",
+            "Kubernetes",
+            "Apache Zookeeper"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/人工神经网络.md",
+        "link": [
+            "Neuron"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/分布式/ETCD.md",
+        "link": [
+            "Golang",
+            "Raft Algorithm",
+            "Kubernetes",
+            "BoltDB",
+            "Sqlite_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/分布式/Google大数据进化.md",
+        "link": [
+            "NoSQL",
+            "Kubernetes"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/分布式/Raft Algorithm.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/分布式/分布式共识.md",
+        "link": [
+            "Apache Zookeeper",
+            "ETCD",
+            "Apache Zookeeper",
+            "ETCD",
+            "Raft Algorithm"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/分布式/原子钟.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/分布式/微服务.md",
+        "link": [
+            "monolith型应用",
+            "二八定律",
+            "心跳检测"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/分布式/心跳检测.md",
+        "link": [
+            "Raft Algorithm",
+            "GC延迟",
+            "微服务",
+            "ETCD"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/分布式/计算机时钟的误差.md",
+        "link": [
+            "Google Spanner",
+            "原子钟"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Chromium.md",
+        "link": [
+            "V8(Javascript Engine)"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Edge Rendering.md",
+        "link": [
+            "Server Side Rendering",
+            "边缘计算",
+            "Content Delivery Network|CDN"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Fresh Framework.md",
+        "link": [
+            "Edge Rendering",
+            "Server Side Rendering",
+            "Hydration",
+            "Route路由",
+            "Template Engine"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Hydration.md",
+        "link": [
+            "Javascript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/JAMStack.md",
+        "link": [
+            "静态页面生成器",
+            "Content Delivery Network|CDN",
+            "Content Management System|CMS"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/MDX.md",
+        "link": [
+            "Markdown",
+            "JSX"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Million.js.md",
+        "link": [
+            "JSX"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Reactive的前端框架并不复杂.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Rome.md",
+        "link": [
+            "Meta",
+            "Babel",
+            "Rust_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Route路由.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/SWC.md",
+        "link": [
+            "Rust_TODO",
+            "Typescript",
+            "Deno"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Server Side Rendering.md",
+        "link": [
+            "PHP",
+            "Node.js",
+            "esbuild"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/Template Engine.md",
+        "link": [
+            "Syntactic Sugar"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/V8 Sandbox.md",
+        "link": [
+            "V8(Javascript Engine)",
+            "Container容器",
+            "Event Loop"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/V8(Javascript Engine).md",
+        "link": [
+            "Javascript",
+            "Just in Time Compilation",
+            "V8 Sandbox"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/V8.md",
+        "link": [
+            "Javascript",
+            "Just in Time Compilation",
+            "V8 Sandbox"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/diff算法.md",
+        "link": [
+            "VirtualDOM_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/esbuild.md",
+        "link": [
+            "Golang",
+            "Github"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/前端/静态页面生成器.md",
+        "link": [
+            "NextJS",
+            "Astro",
+            "React",
+            "Server Side Rendering",
+            "React",
+            "GraphQL"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/可选类型.md",
+        "link": [
+            "泛型"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/基础设施即代码.md",
+        "link": [
+            "Typescript",
+            "Terraform",
+            "Pulumi",
+            "AWS CloudFormation",
+            "AWS"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/大数据/Apache Lucene.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/容器技术/Container容器.md",
+        "link": [
+            "Cgroups",
+            "虚拟机的分类",
+            "Docker|Docker"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/容器技术/Distroless.md",
+        "link": [
+            "Container容器",
+            "Linux Distro",
+            "monolith型应用",
+            "Unikernel",
+            "Bazel"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/容器技术/Docker in Docker.md",
+        "link": [
+            "Container容器|容器",
+            "Docker"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/容器技术/Docker.md",
+        "link": [
+            "Dockerfile"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/容器技术/Google和Facebook不用Docker的原因.md",
+        "link": [
+            "Monorepo",
+            "Build System",
+            "Apache Maven",
+            "Gradle",
+            "Container容器",
+            "Python_TODO",
+            "Cache"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/容器技术/Kubernetes.md",
+        "link": [
+            "微服务",
+            "Cgroups"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/容器技术/Unikernel.md",
+        "link": [
+            "Xen"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/容器技术/eBPF都解决了什么问题.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/开发工具库.md",
+        "link": [
+            "Fresh Framework",
+            "Svelte",
+            "VirtualDOM_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/7z和xz压缩.md",
+        "link": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/Bare Metal.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/Cgroups.md",
+        "link": [
+            "Container容器"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/Fuchsia系统.md",
+        "link": [
+            "微内核",
+            "虚拟内存",
+            "用户空间",
+            "文件系统",
+            "Flutter"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/Linux内核的定制.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/System Call.md",
+        "link": [
+            "头文件",
+            "Linux Kernel",
+            "Fuchsia系统",
+            "UEFI和BIOS|UEFI"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/UEFI和BIOS.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/User Mode Linux.md",
+        "link": [
+            "Linux Kernel"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/chmod的作用.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/chroot.md",
+        "link": [
+            "Container容器"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/伪随机数生成器.md",
+        "link": [
+            "Linux Kernel",
+            "RogueLike"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/可执行文件里究竟有什么？.md",
+        "link": [
+            "Bare Metal|Bare Metal"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/操作系统探明/把云函数作为电脑的延伸.md",
+        "link": [
+            "AWS Lambda"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/机器学习/Classification 分类问题.md",
+        "link": [
+            "Regression 回归问题",
+            "Supervised Algorithm",
+            "Support Vector Machine"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/机器学习/DeepLearning4J.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/机器学习/Neuron.md",
+        "link": [
+            "激活函数"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/机器学习/Perceptron感知机.md",
+        "link": [
+            "人工神经网络",
+            "超平面"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/机器学习/Theano(Aesara).md",
+        "link": [
+            "Python_TODO",
+            "Machine Learning",
+            "Chainer",
+            "人工神经网络"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/机器学习/eDSL.md",
+        "link": [
+            "DSL",
+            "Differential微分",
+            "Machine Learning",
+            "Tensor Processing Unit_TODO|TPU"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/机器学习/机器学习-周志华.md",
+        "link": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/泛型.md",
+        "link": [
+            "强弱类型和动静态类型"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/游戏引擎.md",
+        "link": [
+            "Unreal Engine",
+            "Unity",
+            "Cocos2D",
+            "Godot"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/滚动发行.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/磁盘的并发问题.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Actionscript.md",
+        "link": [
+            "Javascript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Asteria Language.md",
+        "link": [
+            "Actionscript",
+            "Javascript",
+            "Garbage Collection"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Babel.md",
+        "link": [
+            "Javascript",
+            "编译到Javascript",
+            "JSX",
+            "Transpiler型语言"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/C.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/CSharp.md",
+        "link": [
+            "Microsoft",
+            "Java",
+            "Java"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/CUE_TODO.md",
+        "link": [
+            "Golang",
+            "Dagger_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Clojure.md",
+        "link": [
+            "Java Virtual Machine",
+            "Lisp",
+            "字节码"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/CookLang_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Cython.md",
+        "link": [
+            "Python_TODO",
+            "C"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/C的动态内存分配.md",
+        "link": [
+            "C",
+            "内存分配"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Dagger_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Dartlang.md",
+        "link": [
+            "Google"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/GC延迟.md",
+        "link": [
+            "Garbage Collection",
+            "Golang",
+            "Object Oriented"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Go源码探索.md",
+        "link": [
+            "Golang",
+            "System Call"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Groovy.md",
+        "link": [
+            "Java Virtual Machine",
+            "Ruby",
+            "Ruby",
+            "DSL",
+            "Gradle"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Header-Only库.md",
+        "link": [
+            "头文件",
+            "头文件",
+            "头文件",
+            "头文件"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/JSX.md",
+        "link": [
+            "Javascript",
+            "VirtualDOM_TODO",
+            "VirtualDOM_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Liquid.md",
+        "link": [
+            "Ruby",
+            "HTML",
+            "Shopify"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/LuaJIT.md",
+        "link": [
+            "Just in Time Compilation"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/ML语言.md",
+        "link": [
+            "Nanopass"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Monad.md",
+        "link": [
+            "Haskell",
+            "Lazy Evaluation"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Nanopass.md",
+        "link": [
+            "Lisp",
+            "GCC",
+            "LLVM"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Object Oriented.md",
+        "link": [
+            "autoboxing",
+            "Scala",
+            "Javascript",
+            "泛型",
+            "Java",
+            "Java Virtual Machine"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/PHP.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Quickjs.md",
+        "link": [
+            "Javascript",
+            "V8",
+            "Just in Time Compilation"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Roc语言.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Ruby.md",
+        "link": [
+            "Object Oriented",
+            "Functional",
+            "Ruby on Rails",
+            "Python_TODO",
+            "元编程",
+            "DSL",
+            "Kotlin"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Shell.md",
+        "link": [
+            "为什么各种语言都提供C绑定|C绑定"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/Transpiler型语言.md",
+        "link": [
+            "编译到Javascript",
+            "Typescript",
+            "Nim",
+            "Gleam",
+            "Haxe",
+            "Links Language",
+            "JSX"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/WebAssembly.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/不是所有（换语言）重写都会变快.md",
+        "link": [
+            "esbuild",
+            "Golang",
+            "Javascript",
+            "Rust_TODO",
+            "Python_TODO",
+            "Type Checking"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/为什么各种语言都提供C绑定.md",
+        "link": [
+            "语言绑定",
+            "System Call",
+            "调用约定",
+            "Theano(Aesara)",
+            "Java Virtual Machine|Java虚拟机",
+            "GraalVM",
+            "DeepLearning4J"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/头文件.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Asteria Language.md",
+        "link": [
+            "Actionscript",
+            "Javascript",
+            "Garbage Collection"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Caramel.md",
+        "link": [
+            "OCaml",
+            "BEAM",
+            "ReasonML_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Ceylon.md",
+        "link": [
+            "编译到Javascript",
+            "Java Virtual Machine",
+            "Typescript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Chisel.md",
+        "link": [
+            "Scala",
+            "Verilog",
+            "ASIC",
+            "RISC-V"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Clojure.md",
+        "link": [
+            "Java Virtual Machine",
+            "Lisp",
+            "字节码"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Cogent.md",
+        "link": [
+            "Functional",
+            "SEL4_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Crystal Language.md",
+        "link": [
+            "Ruby",
+            "LLVM",
+            "Type Inference",
+            "Garbage Collection",
+            "Object Oriented"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Cython.md",
+        "link": [
+            "Python_TODO",
+            "C"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/DarkLang.md",
+        "link": [
+            "CRUD",
+            "Structural Editor",
+            "2022-07-26"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Dartlang.md",
+        "link": [
+            "Google"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Elixir.md",
+        "link": [
+            "Erlang",
+            "Ruby"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Enso.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Erlang.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Gleam.md",
+        "link": [
+            "Java Virtual Machine"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Grain.md",
+        "link": [
+            "WebAssembly",
+            "Functional"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Groovy.md",
+        "link": [
+            "Java Virtual Machine",
+            "Ruby",
+            "Ruby",
+            "DSL",
+            "Gradle"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Haxe.md",
+        "link": [
+            "OCaml",
+            "Javascript",
+            "Actionscript",
+            "Garbage Collection",
+            "虚拟机的分类",
+            "PHP",
+            "Python_TODO",
+            "CSharp",
+            "Java",
+            "Lua",
+            "Dead Cells"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Koka.md",
+        "link": [
+            "Haskell"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Links Language.md",
+        "link": [
+            "OCaml"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Liquid.md",
+        "link": [
+            "Ruby",
+            "HTML",
+            "Shopify"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Lisp.md",
+        "link": [
+            "Clojure",
+            "Scheme",
+            "OCaml",
+            "Haskell"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Lobster.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/LuaJIT.md",
+        "link": [
+            "Just in Time Compilation"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/ML语言.md",
+        "link": [
+            "Nanopass"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Monad.md",
+        "link": [
+            "Haskell",
+            "Lazy Evaluation"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Nickel.md",
+        "link": [
+            "配置语言",
+            "Transpiler型语言",
+            "Nix",
+            "Gradual Typing",
+            "可选类型"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Nim.md",
+        "link": [
+            "boehmGC",
+            "Type Inference",
+            "Typescript",
+            "类型擦除"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Racket.md",
+        "link": [
+            "Scheme"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Rakudo.md",
+        "link": [
+            "Perl"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/ReasonML_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Roc语言.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Scheme.md",
+        "link": [
+            "Lisp",
+            "Nanopass",
+            "Racket"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Unison.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Vale.md",
+        "link": [
+            "LLVM"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/小众语言/Virgo.md",
+        "link": [
+            "Directed Acyclic Graph有向无环图|有向无环图",
+            "配置语言",
+            "语言绑定"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Babel.md",
+        "link": [
+            "Javascript",
+            "编译到Javascript",
+            "JSX",
+            "Transpiler型语言"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/C.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/CSharp.md",
+        "link": [
+            "Microsoft",
+            "Java",
+            "Java"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/CUE_TODO.md",
+        "link": [
+            "Golang",
+            "Dagger_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Dagger_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Fsharp.md",
+        "link": [
+            "OCaml",
+            "ML语言",
+            "CLR",
+            "dotNet"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Golang.md",
+        "link": [
+            "Garbage Collection",
+            "Object Oriented",
+            "Functional",
+            "tinygo"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Haskell.md",
+        "link": [
+            "Garbage Collection",
+            "Golang",
+            "Compiler",
+            "Currying|Currying"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/JSX.md",
+        "link": [
+            "Javascript",
+            "VirtualDOM_TODO",
+            "VirtualDOM_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Java.md",
+        "link": [
+            "字节码和Tree-walking|Bytecode",
+            "Java Virtual Machine"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Javascript.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Kotlin.md",
+        "link": [
+            "Jetbrains",
+            "Java Virtual Machine",
+            "Javascript",
+            "Java",
+            "Scala",
+            "Typescript",
+            "Nominal和Structural类型系统SUSPEND"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Lua.md",
+        "link": [
+            "Luau",
+            "LuaJIT",
+            "OpenResty_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/OCaml.md",
+        "link": [
+            "Fsharp",
+            "Coq证明工具",
+            "ML语言",
+            "Hindley-Milner系统",
+            "Rust_TODO",
+            "ReasonML_TODO",
+            "Javascript",
+            "Caramel"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/PHP.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Python_TODO.md",
+        "link": [
+            "PyPy",
+            "RustPython",
+            "GraalPython",
+            "GraalVM",
+            "MicroPython",
+            "Docker"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Quickjs.md",
+        "link": [
+            "Javascript",
+            "V8(Javascript Engine)",
+            "Just in Time Compilation"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Ruby.md",
+        "link": [
+            "Object Oriented",
+            "Functional",
+            "Ruby on Rails",
+            "Python_TODO",
+            "元编程",
+            "DSL",
+            "Kotlin"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Scala.md",
+        "link": [
+            "Java Virtual Machine",
+            "Functional",
+            "Object Oriented",
+            "Java",
+            "Kotlin",
+            "Type Class",
+            "Case Class",
+            "autoboxing",
+            "泛型",
+            "mutable",
+            "Lazy Evaluation"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Shell.md",
+        "link": [
+            "为什么各种语言都提供C绑定|C绑定"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Typescript.md",
+        "link": [
+            "编译到Javascript",
+            "Nominal和Structural类型系统SUSPEND",
+            "Javascript",
+            "类型擦除",
+            "Babel",
+            "SWC",
+            "Golang",
+            "AssemblyScript",
+            "WebAssembly",
+            "泛型"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/WebAssembly.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/常见语言/Zig.md",
+        "link": [
+            "Kotlin",
+            "Java",
+            "LLVM",
+            "Golang",
+            "TigerBeetle",
+            "C"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/程序语言的Paradigm范式.md",
+        "link": [
+            "Object Oriented",
+            "Functional",
+            "Prolog",
+            "Object Oriented",
+            "Side Effect"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/Currying.md",
+        "link": [
+            "Functional"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/Dependent Type SUSPEND.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/Hindley-Milner系统.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/Lambda演算.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/Nominal和Structural类型系统SUSPEND.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/System F_TODO.md",
+        "link": [
+            "Lambda演算"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/Type Checking.md",
+        "link": [
+            "Type Inference",
+            "Crystal Language",
+            "Nominal和Structural类型系统SUSPEND"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/Type Inference.md",
+        "link": [
+            "Type Checking",
+            "ML语言",
+            "Functional",
+            "Side Effect",
+            "Object Oriented|多态",
+            "System F_TODO",
+            "Dependent Type SUSPEND",
+            "Typescript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/强弱类型和动静态类型.md",
+        "link": [
+            "Type Checking",
+            "Java",
+            "CSharp",
+            "Typescript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/类型系统/类型签名即文档.md",
+        "link": [
+            "Nominal和Structural类型系统SUSPEND",
+            "Functional",
+            "Currying|Currying",
+            "泛型"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/系统级语言_TODO.md",
+        "link": [
+            "Rust_TODO",
+            "Zig",
+            "C",
+            "Nim"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言标准库/Go-标准库_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言标准库/Java-标准库.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言标准库/Rust-标准库.md",
+        "link": [
+            "Rust_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/CLR.md",
+        "link": [
+            "CSharp",
+            "Fsharp",
+            "dotNet",
+            "Java Virtual Machine",
+            "泛型",
+            "Just in Time Compilation"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/Deno.md",
+        "link": [
+            "Typescript",
+            "V8(Javascript Engine)",
+            "SWC",
+            "Type Checking"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/Fable.md",
+        "link": [
+            "Fsharp",
+            "Javascript",
+            "ReasonML_TODO",
+            "OCaml",
+            "dotNet",
+            "Typescript"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/Pyscript.md",
+        "link": [
+            "Python_TODO",
+            "Pyodide",
+            "WebAssembly",
+            "Numpy",
+            "PyPy",
+            "GraalVM"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/bun.js.md",
+        "link": [
+            "Rome",
+            "Deno",
+            "Zig"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/coreCLR和JVM.md",
+        "link": [
+            "虚拟机的分类",
+            "CSharp",
+            "Java",
+            "Garbage Collection"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/dotNet.md",
+        "link": [
+            "CLR",
+            "CSharp",
+            "Roslyn Compiler"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/字节码和Tree-walking.md",
+        "link": [
+            "运行时和虚拟机和解释器|解释器",
+            "GraalVM"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/标准库与核心库.md",
+        "link": [
+            "头文件",
+            "Golang"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/编译到Javascript.md",
+        "link": [
+            "Garbage Collection"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/语法解析器对比.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/程序语言/语言运行时和编译器/运行时和虚拟机和解释器.md",
+        "link": [
+            "Bare Metal|Bare Metal",
+            "Golang",
+            "Garbage Collection"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/设计模式.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/语言绑定.md",
+        "link": [
+            "Java",
+            "C",
+            "Python_TODO",
+            "CFFI",
+            "C",
+            "为什么各种语言都提供C绑定",
+            "调用约定"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/调用约定.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/负载均衡.md",
+        "link": [
+            "Nginx_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/Hyrum's-Law.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/LSM树存储.md",
+        "link": [
+            "RocksDB",
+            "Apache Cassandra_TODO",
+            "读写权衡",
+            "一些显而易见但容易忽视的事实（关于CS）"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/Merkle树.md",
+        "link": [
+            "以太坊"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/Qemu.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/Xen.md",
+        "link": [
+            "Qemu"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/monolith型应用.md",
+        "link": [
+            "微服务"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/内存分配.md",
+        "link": [
+            "系统级语言_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/同步阻塞IO不适合高并发.md",
+        "link": [
+            "Epoll"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/对ML模型的测试和管理.md",
+        "link": [
+            "Machine Learning",
+            "微服务",
+            "金丝雀发布"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/工作调度工具.md",
+        "link": [
+            "Kubernetes"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/程序优化.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/虚拟机的分类.md",
+        "link": [
+            "Firecracker",
+            "Qemu",
+            "coreCLR和JVM|Java虚拟机",
+            "V8(Javascript Engine)"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/读写权衡.md",
+        "link": [
+            "NoSQL"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/静态链接和动态链接.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/通用知识/高并发下的存储结构.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Computer Science/键值存储.md",
+        "link": [
+            "AWS Dynamo",
+            "RESTful API",
+            "curl",
+            "JSON",
+            "YAML",
+            "MongoDB",
+            "JSON",
+            "RESTful API",
+            "JOIN"
+        ]
+    },
+    {
+        "filename": "knowledge/Computer Science/阻塞和非阻塞.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Half Life Series.md",
+        "link": [
+            "Valve"
+        ]
+    },
+    {
+        "filename": "knowledge/Libuv.md",
+        "link": [
+            "Event Loop"
+        ]
+    },
+    {
+        "filename": "knowledge/Love Live! Super Star.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Notion.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/Policy.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/TODO_LIST.md",
+        "link": [
+            "TODO_云服务列表",
+            "GCP",
+            "AWS",
+            "Azure"
+        ]
+    },
+    {
+        "filename": "knowledge/TODO_云服务列表.md",
+        "link": [
+            "AWS",
+            "GCP",
+            "Azure",
+            "阿里云",
+            "腾讯云",
+            "华为云",
+            "Heroku",
+            "Fly.io",
+            "Vercel",
+            "CloudFlare",
+            "Netlify",
+            "DigitalOcean",
+            "BackBlaze",
+            "Wasabi",
+            "AWS S3",
+            "AWS",
+            "对象存储",
+            "文件存储",
+            "块存储",
+            "EC2",
+            "Apache Kafka",
+            "Kubernetes",
+            "AWS Lambda",
+            "Aurora DB",
+            "Content Delivery Network"
+        ]
+    },
+    {
+        "filename": "knowledge/TODO_游戏列表.md",
+        "link": [
+            "Valve",
+            "Dota",
+            "Half Life Series",
+            "Portal Series",
+            "Artifact(GAME)",
+            "Team Fortress",
+            "Counter Strike Global Offensive"
+        ]
+    },
+    {
+        "filename": "knowledge/Tyranny.md",
+        "link": [
+            "Obsidian Entertainment",
+            "Pillars of Eternity_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/WHAT IF I DESIGNED/可以参考的项目列表.md",
+        "link": [
+            "Apache Lucene",
+            "ElasticSearch_TODO",
+            "MongoDB",
+            "Apache Hadoop",
+            "Apache Kafka",
+            "Apache Spark",
+            "MySQL",
+            "Kubernetes",
+            "Redis",
+            "CICD_TODO",
+            "Dagger_TODO",
+            "DroneCI",
+            "Pebble",
+            "RocksDB",
+            "Apache Zookeeper",
+            "Apache Hive",
+            "以太坊",
+            "Nginx_TODO",
+            "Apache Cassandra_TODO",
+            "Jupyter Lab"
+        ]
+    },
+    {
+        "filename": "knowledge/WHAT IF I DESIGNED/如果我来设计Roguelike引擎.md",
+        "link": [
+            "RogueLike",
+            "C",
+            "rot.js",
+            "Javascript",
+            "Lua",
+            "Java",
+            "CSharp",
+            "Vue",
+            "Haskell",
+            "Kotlin",
+            "Java",
+            "Android",
+            "Java",
+            "Java",
+            "C"
+        ]
+    },
+    {
+        "filename": "knowledge/WHAT IF I DESIGNED/如果让我来设计MongoDB.md",
+        "link": [
+            "MongoDB",
+            "JSON"
+        ]
+    },
+    {
+        "filename": "knowledge/Web上不同的渲染方案.md",
+        "link": [
+            "Server Side Rendering",
+            "静态页面生成器"
+        ]
+    },
+    {
+        "filename": "knowledge/不锈钢_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/地点/Argyle Street 1182 1-1.md",
+        "link": [
+            "刘臻",
+            "黄寅枫",
+            "疏义韬",
+            "argyle-street-1182-backdoor.jpg"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/地点/Boyd Orr Building.md",
+        "link": [
+            "Glasgow Learning Hub"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/地点/Glasgow Learning Hub.md",
+        "link": [
+            "Glasgow Library",
+            "Boyd Orr Building"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/地点/Glasgow Library.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/地点/University of Glasgow.md",
+        "link": [
+            "Boyd Orr Building",
+            "Sir Alwyin Williams Bulding",
+            "Glasgow Library",
+            "Kelvin Building",
+            "Glasgow Learning Hub"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/地点/Woodlands公寓.md",
+        "link": [
+            "Glasgow Library",
+            "黄寅枫"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/地点/生活中常见的地点.md",
+        "link": [
+            "Glasgow Library",
+            "University of Glasgow",
+            "University of Liverpool",
+            "Arch Accommodation Liverpool",
+            "Woodlands公寓",
+            "Boyd Orr Building",
+            "Glasgow Learning Hub",
+            "Argyle Street 1182 1-1"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/常见药物的疗效.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/别人的故事/同学肛瘘的故事.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/别人的故事/室友手冲的故事.md",
+        "link": [
+            "朱博轩"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/我的故事/PingCAP实习经历.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/我的故事/和同学差点上本垒的故事.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/我的故事/大英博物馆安检事故.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/我的故事/尴尬的事.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/我的故事/尴尬的事：地铁.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/我的故事/扬州泡澡的故事_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/我的故事/教发小写爬虫的故事.md",
+        "link": [
+            "段欣越"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/故事档案/我的故事/罗森打工记.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/时间线.md",
+        "link": [
+            "王海川",
+            "王嘉奇",
+            "甘宇頔"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/老妈.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/老爸.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/伏景伊.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/傅海彬.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/凌茂卿.md",
+        "link": [
+            "徐晨皓",
+            "罗森打工记",
+            "尴尬的事：地铁"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/刘臻.md",
+        "link": [
+            "宗绍均"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/南冬昀.md",
+        "link": [
+            "甘宇頔",
+            "PingCAP实习经历"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/多人的联系/COMP208 Group Project Team.md",
+        "link": [
+            "王海川",
+            "王嘉奇",
+            "徐嘉琪",
+            "甘宇頔",
+            "南冬昀"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/多人的联系/Glasgow COMPSCI4084队友.md",
+        "link": [
+            "沈泽宇",
+            "李琛",
+            "傅海彬"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/多人的联系/Glasgow室友.md",
+        "link": [
+            "Woodlands公寓",
+            "疏义韬",
+            "黄寅枫"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/多人的联系/Liverpool室友.md",
+        "link": [
+            "黎皓阳",
+            "黄宇平",
+            "朱博轩"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/多人的联系/发小关系.md",
+        "link": [
+            "段欣越",
+            "尚小青"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/多人的联系/苏州室友.md",
+        "link": [
+            "王海川",
+            "王嘉奇",
+            "凌茂卿"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/多人的联系/高中同学.md",
+        "link": [
+            "伏景伊"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/宗绍均.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/尚小青.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/徐嘉琪.md",
+        "link": [
+            "COMP208 Group Project Team",
+            "王嘉奇",
+            "黎书畅",
+            "PingCAP实习经历"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/徐晨皓.md",
+        "link": [
+            "凌茂卿"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/朱博轩.md",
+        "link": [
+            "黎皓阳",
+            "黎书畅",
+            "大英博物馆安检事故",
+            "罗森打工记",
+            "尴尬的事：地铁",
+            "同学肛瘘的故事",
+            "PingCAP实习经历",
+            "和同学差点上本垒的故事",
+            "教发小写爬虫的故事",
+            "室友手冲的故事"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/李琛.md",
+        "link": [
+            "Nintendo Switch",
+            "Persona 5R"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/梁硕易.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/段欣越.md",
+        "link": [
+            "和同学差点上本垒的故事",
+            "大英博物馆安检事故",
+            "尴尬的事：地铁",
+            "尚小青"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/沈泽宇.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/王嘉奇.md",
+        "link": [
+            "徐嘉琪",
+            "徐嘉琪",
+            "教发小写爬虫的故事",
+            "和同学差点上本垒的故事",
+            "大英博物馆安检事故",
+            "罗森打工记",
+            "尴尬的事：地铁",
+            "同学肛瘘的故事",
+            "PingCAP实习经历",
+            "王海川",
+            "甘宇頔",
+            "凌茂卿",
+            "徐晨皓",
+            "徐嘉琪",
+            "Counter Strike Global Offensive",
+            "Apex Legend",
+            "荒野大镖客",
+            "Super Mario Bro Odyssey"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/王海川.md",
+        "link": [
+            "教发小写爬虫的故事",
+            "和同学差点上本垒的故事",
+            "大英博物馆安检事故",
+            "罗森打工记",
+            "尴尬的事：地铁",
+            "同学肛瘘的故事",
+            "PingCAP实习经历",
+            "王嘉奇",
+            "凌茂卿",
+            "南冬昀",
+            "甘宇頔",
+            "战舰世界",
+            "Apex Legend",
+            "极品飞车"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/甘宇钆.md",
+        "link": [
+            "南冬昀",
+            "PingCAP实习经历",
+            "王嘉奇",
+            "南冬昀",
+            "王海川"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/疏义韬.md",
+        "link": [
+            "Glasgow室友"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/黄宇平.md",
+        "link": [
+            "黎皓阳",
+            "大英博物馆安检事故",
+            "罗森打工记",
+            "尴尬的事：地铁",
+            "同学肛瘘的故事",
+            "PingCAP实习经历",
+            "和同学差点上本垒的故事",
+            "室友手冲的故事",
+            "教发小写爬虫的故事"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/黄寅枫.md",
+        "link": [
+            "Glasgow室友",
+            "Boyd Orr Building",
+            "Woodlands公寓"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/黎书畅.md",
+        "link": [
+            "徐嘉琪",
+            "黎皓阳",
+            "朱博轩",
+            "PingCAP实习经历"
+        ]
+    },
+    {
+        "filename": "knowledge/个人生活/认识的人/黎皓阳.md",
+        "link": [
+            "黄宇平",
+            "黎书畅",
+            "朱博轩",
+            "大英博物馆安检事故",
+            "罗森打工记",
+            "尴尬的事：地铁",
+            "同学肛瘘的故事",
+            "PingCAP实习经历",
+            "和同学差点上本垒的故事",
+            "室友手冲的故事",
+            "教发小写爬虫的故事",
+            "朱博轩",
+            "黄宇平",
+            "黎书畅"
+        ]
+    },
+    {
+        "filename": "knowledge/太空航天相关的知识.md",
+        "link": [
+            "地球同步轨道",
+            "宇宙速度",
+            "拉格朗日点",
+            "霍曼转移轨道",
+            "引力弹弓",
+            "太阳风"
+        ]
+    },
+    {
+        "filename": "knowledge/太阳帆.md",
+        "link": [
+            "辐射压",
+            "霍尔推进器"
+        ]
+    },
+    {
+        "filename": "knowledge/太阳风.md",
+        "link": [
+            "太阳帆"
+        ]
+    },
+    {
+        "filename": "knowledge/对话.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/引力弹弓.md",
+        "link": [
+            "《For All Mankind》"
+        ]
+    },
+    {
+        "filename": "knowledge/我的创作/AWSP.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的创作/Nodejs处理文件的逻辑TODO.md",
+        "link": [
+            "Node.js",
+            "异步"
+        ]
+    },
+    {
+        "filename": "knowledge/我的创作/Vault文件读取.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的创作/Vector的定义.md",
+        "link": [
+            "Data Science"
+        ]
+    },
+    {
+        "filename": "knowledge/我的创作/一个解释器需要多少组件.md",
+        "link": [
+            "Lexer",
+            "Parser"
+        ]
+    },
+    {
+        "filename": "knowledge/我的创作/仓库分析工具.md",
+        "link": [
+            "Java",
+            "Deno",
+            "MDX"
+        ]
+    },
+    {
+        "filename": "knowledge/我的创作/仓库分析工具的共同点.md",
+        "link": [
+            "Vault文件读取",
+            "Javascript"
+        ]
+    },
+    {
+        "filename": "knowledge/我的创作/仓库分析工具的设计稿.md",
+        "link": [
+            "Java"
+        ]
+    },
+    {
+        "filename": "knowledge/我的创作/使用Nextjs构建Blog的可行性.md",
+        "link": [
+            "NextJS",
+            "静态页面生成器",
+            "MDX",
+            "React"
+        ]
+    },
+    {
+        "filename": "knowledge/我的创作/文化作品中的“开门”.md",
+        "link": [
+            "Sekiro Shadows Die Twice",
+            "千与千寻"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/A Hat In Time.md",
+        "link": [
+            "Super Mario Bro Odyssey"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/A Plague Tale Innocence.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/ARMA Series.md",
+        "link": [
+            "DayZ",
+            "PUBG"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Ace Combat 7.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Acient Domains of History.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Age of Empires Series.md",
+        "link": [
+            "Real-Time Strategy|RTS"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Alan Wake.md",
+        "link": [
+            "Remedy（游戏公司）"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Angband.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Anthem.md",
+        "link": [
+            "Bioware",
+            "TPS"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Apex Legend.md",
+        "link": [
+            "大逃杀类游戏",
+            "Titan Fall",
+            "Time To Kill"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Aquaria.md",
+        "link": [
+            "少年电脑世界"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's Creed Valhalla.md",
+        "link": [
+            "刺客信条系列"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's-Creed -Brotherhood.md",
+        "link": [
+            "刺客信条系列",
+            "Assassin's-Creed 2|刺客信条2"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's-Creed 1.md",
+        "link": [
+            "刺客信条系列"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's-Creed 2.md",
+        "link": [
+            "刺客信条系列"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's-Creed 3.md",
+        "link": [
+            "刺客信条系列"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's-Creed-4-Black-Flag.md",
+        "link": [
+            "刺客信条系列"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's-Creed-Odyssey.md",
+        "link": [
+            "刺客信条系列",
+            "Ubisoft",
+            "Assassin's-Creed-Origin|刺客信条：起源"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's-Creed-Origin.md",
+        "link": [
+            "刺客信条系列",
+            "Assassin's-Creed-Odyssey"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin's-Creed-Revelations.md",
+        "link": [
+            "刺客信条系列",
+            "Assassin's-Creed 2|刺客信条2",
+            "Assassin's-Creed -Brotherhood|刺客信条：兄弟会"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin‘s Creed Unity.md",
+        "link": [
+            "刺客信条系列",
+            "Ubisoft"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Assassin‘s-Creed-Syndicate.md",
+        "link": [
+            "刺客信条系列",
+            "Ubisoft",
+            "Assassin's Creed Unity|刺客信条：大革命"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Axioms Verge.md",
+        "link": [
+            "Metroidvania|类银河战士恶魔城"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Back 4 Blood.md",
+        "link": [
+            "Left 4 Dead Series"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Baldur's Gate 3.md",
+        "link": [
+            "Larian Studio",
+            "博得之门1和2",
+            "Dungeons and Dragons",
+            "Divinity Original Sin 2|神界：原罪2",
+            "Dungeons and Dragons|DND"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Bastion.md",
+        "link": [
+            "SuperGiant"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Battleblock Theatre.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Beyond Two Souls.md",
+        "link": [
+            "Quantic Dream"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Blasphemous.md",
+        "link": [
+            "Metroidvania"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Bloodborne.md",
+        "link": [
+            "From Software",
+            "Soul like|魂系游戏",
+            "Call of Cthulhu|克苏鲁的呼唤"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Bloodstained Ritual of the Night.md",
+        "link": [
+            "众筹游戏_TODO",
+            "Castlevania"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Borderlands Series.md",
+        "link": [
+            "Gearbox",
+            "2K Games"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/CODE VEIN_TODO.md",
+        "link": [
+            "BANDAI NAMCO",
+            "Soul like",
+            "GOD EATER"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Call of Cthulhu.md",
+        "link": [
+            "TRPG",
+            "洛夫克拉夫特"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Castlevania.md",
+        "link": [
+            "Konami",
+            "Metroidvania"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Cataclysm Dark Days Ahead.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Cave Story.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Caves of Qud.md",
+        "link": [
+            "RogueLike",
+            "Unity"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Counter Strike Global Offensive.md",
+        "link": [
+            "Valve",
+            "First Person Shooting_TODO|FPS"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Crypt of the NecroDancer.md",
+        "link": [
+            "RogueLike"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Crysis Series.md",
+        "link": [
+            "First Person Shooting_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Cup Head.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/DEATHLOOP.md",
+        "link": [
+            "Arkane Studios",
+            "Bethesda",
+            "Dishonored Series"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/DayZ.md",
+        "link": [
+            "PUBG"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Dead Cells.md",
+        "link": [
+            "RogueLike",
+            "Haxe"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Dead by Daylight.md",
+        "link": [
+            "第五人格"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Destiny Series_TODO.md",
+        "link": [
+            "Bungie",
+            "Activision",
+            "First Person Shooting_TODO|FPS"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Disco Elysium.md",
+        "link": [
+            "CRPG"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Divinity Original Sin 2.md",
+        "link": [
+            "Larian Studio",
+            "CRPG",
+            "Pillars of Eternity_TODO|永恒之柱"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Don‘t Starve.md",
+        "link": [
+            "Klei Entertainment"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Dungeon Crawl Stone Soup.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Dungeons and Dragons.md",
+        "link": [
+            "跑团",
+            "TRPG",
+            "灰鹰Greyhawk",
+            "被遗忘的国度Forgotten Realms",
+            "龙枪Dragonlance",
+            "艾伯伦Eberron",
+            "异度风景Planescape",
+            "浩劫残阳Darksun",
+            "CRPG",
+            "冰风谷系列",
+            "无冬之夜系列",
+            "Baldur's Gate 3",
+            "Baldur's Gate 1&2"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Dwarf Fortress.md",
+        "link": [
+            "RogueLike"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Elden Ring.md",
+        "link": [
+            "From Software",
+            "Soul like"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Fallout Series_TODO.md",
+        "link": [
+            "辐射新维加斯"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Griftlands_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/HADES.md",
+        "link": [
+            "SuperGiant",
+            "Roguelite"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Hollow Knight.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Imperator Rome.md",
+        "link": [
+            "Paradox Interactive"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Just Cause Series.md",
+        "link": [
+            "Avalanche Studios"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Left 4 Dead Series.md",
+        "link": [
+            "Valve"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Mad Max(Game).md",
+        "link": [
+            "Avalanche Studios",
+            "Mad Max(Movie)"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Max Payne Series.md",
+        "link": [
+            "Remedy（游戏公司）",
+            "Rockstar Games",
+            "TPS"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Nethack.md",
+        "link": [
+            "Cataclysm Dark Days Ahead|CDDA",
+            "Terraria"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Noita.md",
+        "link": [
+            "RogueLike"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Ori Series.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Oxygen Not Included_TODO.md",
+        "link": [
+            "Klei Entertainment"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/PUBG.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Pathfinder Series.md",
+        "link": [
+            "Dungeons and Dragons|DND"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Pillars of Eternity_TODO.md",
+        "link": [
+            "Obsidian Entertainment",
+            "众筹游戏_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Pyre.md",
+        "link": [
+            "SuperGiant"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Quantum Break.md",
+        "link": [
+            "Remedy（游戏公司）"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Rage2.md",
+        "link": [
+            "Avalanche Studios",
+            "id Software",
+            "First Person Shooting_TODO|FPS"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Rogue Legacy.md",
+        "link": [
+            "Roguelite"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/SCARLET NEXUS.md",
+        "link": [
+            "Sunrise日升",
+            "破晓传说",
+            "BANDAI NAMCO"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/ShadowRun RPG Series.md",
+        "link": [
+            "Shadowrun",
+            "Disco Elysium",
+            "Shadowrun Returns",
+            "Shadowrun Dragonfall",
+            "Shadowrun Hong Kong"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Shank Series.md",
+        "link": [
+            "Klei Entertainment"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Slay the Spire_TODO.md",
+        "link": [
+            "RogueLike"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Tales of Maj'Eyal.md",
+        "link": [
+            "RogueLike",
+            "Lua"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Tales of Maj_Eyal.md",
+        "link": [
+            "Noita"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/The Dark Pictures Anthology.md",
+        "link": [
+            "Supermassive Games",
+            "Interactive Movie",
+            "B级片",
+            "棉兰号",
+            "稀望镇",
+            "灰冥界",
+            "心中魔"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/The Outer Worlds.md",
+        "link": [
+            "Obsidian Entertainment",
+            "Fallout Series_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/The Quarry.md",
+        "link": [
+            "Supermassive Games"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/The Surge Series_TODO.md",
+        "link": [
+            "Soul like"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Tombs Raider Series.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Transistor.md",
+        "link": [
+            "SuperGiant"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Tyranny.md",
+        "link": [
+            "Obsidian Entertainment",
+            "Pillars of Eternity_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/UnEpic.md",
+        "link": [
+            "Meta Game_TODO",
+            "Metroidvania"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/WatchDogs Series.md",
+        "link": [
+            "Ubisoft"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/Wolfstein Series.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/万智牌.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/刺客信条系列.md",
+        "link": [
+            "Ubisoft"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/博得之门1和2.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/CRPG.md",
+        "link": [
+            "TRPG",
+            "Bioware",
+            "黑岛",
+            "Divinity Original Sin 2",
+            "Baldur's Gate 1&2",
+            "Baldur's Gate 3",
+            "Tyranny",
+            "Pillars of Eternity_TODO",
+            "Pathfinder Series",
+            "Disco Elysium",
+            "ShadowRun RPG Series",
+            "冰风谷系列",
+            "无冬之夜系列"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/First Person Shooting_TODO.md",
+        "link": [
+            "DOOM Series",
+            "Crysis Series",
+            "Call of Duty Series",
+            "Cyberpunk2077",
+            "DEATHLOOP",
+            "Destiny Series_TODO",
+            "Dying Light Series",
+            "Bullet Storm",
+            "Wolfstein Series",
+            "Unturned",
+            "Titan Fall",
+            "Supraland Series",
+            "Tombs Raider Series",
+            "Halo Series",
+            "Half Life Series"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/Interactive Movie.md",
+        "link": [
+            "Beyond Two Souls",
+            "The Dark Pictures Anthology",
+            "Detroit Become Human",
+            "Heavy Rain",
+            "Life is Strange Series",
+            "Quantum Break",
+            "隐形守护者",
+            "The Quarry"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/Meta Game_TODO.md",
+        "link": [
+            "Pony Island",
+            "Undertale",
+            "UnEpic"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/Metroidvania.md",
+        "link": [
+            "Metroid",
+            "Castlevania",
+            "Ori Series|奥日系列",
+            "Hollow Knight|空洞骑士",
+            "Axioms Verge|公理边缘",
+            "Dead Cells|死亡细胞",
+            "Shantae系列",
+            "Blasphemous",
+            "Cave Story|洞窟物语",
+            "Tunic",
+            "Bloodstained Ritual of the Night"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/Real-Time Strategy.md",
+        "link": [
+            "Age of Empires Series",
+            "Warcraft Series",
+            "StarCraft Series",
+            "Blizzard",
+            "Westwood",
+            "Command and Conquer Series",
+            "Red Alert Series"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/RogueLike.md",
+        "link": [
+            "Nethack",
+            "Tales of Maj'Eyal",
+            "Dungeon Crawl Stone Soup",
+            "Acient Domains of History",
+            "Angband",
+            "Dwarf Fortress",
+            "Cataclysm Dark Days Ahead|CDDA",
+            "Caves of Qud",
+            "CogMind"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/Roguelite.md",
+        "link": [
+            "RogueLike",
+            "Rogue Legacy|盗贼遗产",
+            "Dead Cells|死亡细胞",
+            "HADES",
+            "Slay the Spire_TODO",
+            "Remnant: From the Ashes",
+            "Crypt of the NecroDancer"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/Soul like.md",
+        "link": [
+            "From Software",
+            "Dark Soul Series",
+            "Bloodborne",
+            "Elden Ring",
+            "The Surge Series_TODO",
+            "CODE VEIN_TODO",
+            "Cup Head",
+            "Titan Souls"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/TRPG.md",
+        "link": [
+            "Dungeons and Dragons",
+            "Call of Cthulhu"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/众筹游戏_TODO.md",
+        "link": [
+            "Divinity Original Sin 2",
+            "Pillars of Eternity_TODO",
+            "Pathfinder Series",
+            "Bloodstained Ritual of the Night|血污：夜之仪式",
+            "Wasteland 3"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/模拟器类游戏_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/步行模拟器.md",
+        "link": [
+            "What Remains of Edith Finch"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/游戏类型/规划类游戏.md",
+        "link": [
+            "Factorio",
+            "戴森球计划",
+            "Satisfactory"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/第五人格.md",
+        "link": [
+            "Dead by Daylight"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/蝙蝠侠阿卡姆系列.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/跑团.md",
+        "link": [
+            "桌游",
+            "TRPG",
+            "Dungeons and Dragons|DND",
+            "Call of Cthulhu|COC",
+            "狼人杀",
+            "剧本杀",
+            "Call of Cthulhu",
+            "Dungeons and Dragons"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/Games/辐射新维加斯.md",
+        "link": [
+            "Obsidian Entertainment",
+            "Fallout Series_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/书籍/TODO_书籍列表.md",
+        "link": [
+            "《红楼梦》",
+            "《西游记》",
+            "《水浒传》",
+            "《三国演义》",
+            "加西亚马尔克斯",
+            "《明朝那些事》",
+            "《金瓶梅》",
+            "《洛丽塔》",
+            "《神经漫游者》",
+            "肯‧弗雷特",
+            "《巨人的陨落》",
+            "《三体》",
+            "海因莱茵",
+            "《星船伞兵》",
+            "《飘》",
+            "余华",
+            "《活着》",
+            "《许三观卖血记》",
+            "乔治·奥威尔_TODO",
+            "《1984》",
+            "动物庄园",
+            "哈利波特系列",
+            "东野圭吾",
+            "白夜行",
+            "村上春树",
+            "鲁迅",
+            "王小波",
+            "《人类简史》",
+            "围城",
+            "金庸",
+            "古龙",
+            "乡土中国",
+            "白鹿原",
+            "大仲马",
+            "小仲马",
+            "巴尔扎克",
+            "托尔斯泰",
+            "海明威",
+            "阿加莎克里斯蒂",
+            "毛姆",
+            "万历十五年",
+            "《献给阿尔吉侬的花束》",
+            "余华系列",
+            "卡尔维诺",
+            "《追忆似水年华》",
+            "加缪",
+            "阿西莫夫",
+            "《菊与刀》",
+            "《漫长的告别》",
+            "雷蒙德·钱德勒",
+            "吴军",
+            "《人间词话》",
+            "王国维",
+            "《窗边的小豆豆》",
+            "萧红",
+            "三毛",
+            "《教父》",
+            "老舍",
+            "曹禺",
+            "叔本华",
+            "《苏菲的世界》",
+            "赫胥黎",
+            "泰戈尔",
+            "陀思妥耶夫斯基",
+            "沈从文",
+            "王尔德",
+            "博尔赫斯",
+            "阿城",
+            "汪曾祺",
+            "梁实秋",
+            "胡适",
+            "川端康成",
+            "三岛由纪夫",
+            "芥川龙之介",
+            "柯南道尔",
+            "米兰昆德拉",
+            "石黑一雄",
+            "江户川乱步",
+            "夏目漱石",
+            "太宰治",
+            "威廉福克纳",
+            "莫言",
+            "高行健",
+            "张爱玲",
+            "龙应台",
+            "欧亨利",
+            "《华氏451度》",
+            "《社会心理学》",
+            "《强风吹拂》",
+            "《浮生六记》",
+            "《自指引擎》",
+            "《全球通史》",
+            "《银河系漫游指南》",
+            "《2001太空漫游》",
+            "《理想国》",
+            "《枪炮、细菌和钢铁》",
+            "《冰与火之歌》",
+            "乔治马丁",
+            "赫尔曼黑塞",
+            "特德姜",
+            "茨维格",
+            "冯友兰",
+            "司汤达",
+            "福楼拜",
+            "左拉",
+            "渡边淳一",
+            "卡夫卡",
+            "莫泊桑",
+            "契科夫",
+            "纳博科夫",
+            "拜伦",
+            "歌德",
+            "莎士比亚",
+            "《指环王》",
+            "托尔金",
+            "尼尔盖曼",
+            "卢梭",
+            "《狂热分子》",
+            "《集装箱改变世界》",
+            "《门到门时代》",
+            "《杀死一只知更鸟》",
+            "《大秦帝国》",
+            "《霸王别姬》",
+            "《傲慢与偏见》",
+            "简奥斯丁",
+            "沙丘",
+            "《黑暗的左手》",
+            "弗兰克罗素",
+            "巴金",
+            "钱理群",
+            "云图",
+            "托马斯潘恩",
+            "亚当斯密",
+            "罗曼罗兰",
+            "那西姆塔勒布",
+            "《哥德尔、埃舍尔、巴赫》",
+            "卡尔·马克思",
+            "茅于轼",
+            "《凤凰项目》",
+            "《岛上书店》",
+            "《黑暗的心》",
+            "《罗马帝国衰亡史》"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/书籍/Think in Bayes.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/书籍/《水浒传》.md",
+        "link": [
+            "中国古代四大名著"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/书籍/茶馆.md",
+        "link": [
+            "老舍"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/书籍/龙枪编年史.md",
+        "link": [
+            "Dungeons and Dragons|DND",
+            "龙枪Dragonlance",
+            "赛马娘Pretty Derby"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/人物/东野圭吾.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/人物/乔治·奥威尔_TODO.md",
+        "link": [
+            "反乌托邦"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/人物/卡尔·马克思.md",
+        "link": [
+            "《资本论》",
+            "《共产党宣言》",
+            "马克思主义"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/人物/村上春树.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/人物/王小波.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/人物/维克多·雨果.md",
+        "link": [
+            "《巴黎圣母院》",
+            "《悲惨世界》",
+            "《九三年》"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/人物/老舍.md",
+        "link": [
+            "四世同堂",
+            "骆驼祥子",
+            "正红旗下",
+            "茶馆"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/人物/詹姆斯·乔伊斯.md",
+        "link": [
+            "都柏林人",
+            "尤利西斯",
+            "芬尼根的守灵夜",
+            "一个青年艺术家的画像"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/2K Games.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Activision.md",
+        "link": [
+            "Blizzard",
+            "Call of Duty Series",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Avalanche Studios.md",
+        "link": [
+            "游戏引擎",
+            "Just Cause Series",
+            "猎人荒野呼唤",
+            "Rage2",
+            "id Software",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/BANDAI NAMCO.md",
+        "link": [
+            "高达系列",
+            "Sunrise日升",
+            "传说系列",
+            "CODE VEIN_TODO|嗜血代码",
+            "GOD EATER",
+            "SCARLET NEXUS",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Bioware.md",
+        "link": [
+            "龙腾世纪",
+            "质量效应",
+            "Baldur's Gate 1&2|博德之门1和2",
+            "Anthem",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Bungie.md",
+        "link": [
+            "Halo Series",
+            "Destiny Series_TODO",
+            "Activision",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/From Software.md",
+        "link": [
+            "Soul like|魂系游戏",
+            "恶魔之魂",
+            "黑暗之魂",
+            "Sekiro Shadows Die Twice",
+            "Elden Ring",
+            "Bloodborne|血源诅咒",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Gearbox.md",
+        "link": [
+            "Borderlands Series",
+            "Embracer Group",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Jetbrains.md",
+        "link": [
+            "Kotlin"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Kinema Citrus.md",
+        "link": [
+            "YUYU式",
+            "黑色子弹",
+            "请问您今天要来点兔子吗",
+            "来自深渊",
+            "盾之勇者成名录"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Klei Entertainment.md",
+        "link": [
+            "Don't Starve|饥荒",
+            "Shank Series",
+            "Oxygen Not Included_TODO|缺氧",
+            "Griftlands_TODO|欺诈之地",
+            "Mark of Ninja",
+            "Invisible Inc",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Konami.md",
+        "link": [
+            "魂斗罗系列",
+            "Metal Gears Series",
+            "实况足球",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Kyoto Animation 京都动画.md",
+        "link": [
+            "轻音少女",
+            "全金属狂潮",
+            "AIR",
+            "凉宫春日的忧郁",
+            "幸运星",
+            "CLANNAD",
+            "轻音少女",
+            "日常",
+            "冰菓",
+            "中二病也要谈恋爱",
+            "玉子市场",
+            "境界的彼方",
+            "甘城光辉游乐园",
+            "吹响！上低音号",
+            "无彩限的怪灵世界",
+            "声之形",
+            "小林家的龙女仆",
+            "利兹与青鸟",
+            "紫罗兰永恒花园"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Obsidian Entertainment.md",
+        "link": [
+            "星球大战：旧共和国武士2",
+            "辐射新维加斯",
+            "Pillars of Eternity_TODO",
+            "Tyranny",
+            "The Outer Worlds",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/P.A.Works.md",
+        "link": [
+            "Kyoto Animation 京都动画",
+            "真实之泪",
+            "Angel Beats!",
+            "花开伊吕波",
+            "TARI TARI",
+            "有顶天家族",
+            "来自风平浪静的明天",
+            "白箱",
+            "Charlotte",
+            "樱花任务",
+            "赛马娘Pretty Derby",
+            "来自多彩世界的明天",
+            "天晴烂漫",
+            "成神之日",
+            "白沙的水族馆",
+            "派对浪客诸葛孔明"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Paradox Interactive.md",
+        "link": [
+            "王国风云",
+            "钢铁雄心",
+            "维多利亚",
+            "欧陆风云",
+            "群星",
+            "都市天际线",
+            "骑马与砍杀",
+            "Surviving Mars",
+            "Imperator Rome",
+            "游戏引擎",
+            "云风的Blog",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Passione.md",
+        "link": [
+            "六花的勇者",
+            "Citrus ～柑橘味香气～",
+            "女高中生的虚度日常",
+            "异种族风俗娘评鉴指南",
+            "异世界迷宫里的后宫生活"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Pivotal.md",
+        "link": [
+            "Spring-Framework"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Remedy（游戏公司）.md",
+        "link": [
+            "游戏引擎",
+            "Alan Wake",
+            "Control",
+            "Quantum Break",
+            "Crossfire X",
+            "Max Payne Series",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Rockstar Games.md",
+        "link": [
+            "2K Games",
+            "GTA",
+            "荒野大镖客",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/SuperGiant.md",
+        "link": [
+            "Bastion",
+            "Transistor",
+            "Pyre",
+            "HADES",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/TODO_动画公司列表.md",
+        "link": [
+            "Kyoto Animation 京都动画",
+            "P.A.Works",
+            "Kinema Citrus",
+            "Passione"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Ubisoft.md",
+        "link": [
+            "刺客信条系列",
+            "WatchDogs Series",
+            "汤姆克兰西：幽灵行动",
+            "汤姆克兰西：彩虹六号",
+            "汤姆克兰西：全境封锁",
+            "Far Cry Series",
+            "TODO_游戏列表"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Valve.md",
+        "link": [
+            "Half Life Series",
+            "Counter Strike Global Offensive",
+            "Dota",
+            "Portal Series",
+            "Artifact(GAME)",
+            "Team Fortress"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/Vercel.md",
+        "link": [
+            "NextJS",
+            "TurboRepo"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/公司/芳文社.md",
+        "link": [
+            "TODO_番剧列表",
+            "向阳素描",
+            "爱杀宝贝",
+            "一起一起这里那里",
+            "YUYU式",
+            "Kinema Citrus",
+            "黄金拼图",
+            "请问您今天要来点兔子吗",
+            "学园孤岛",
+            "Anne Happy",
+            "三者三叶",
+            "NEW GAME!",
+            "URARA迷路帖",
+            "调教咖啡厅",
+            "摇曳露营_TODO",
+            "Slow Loop",
+            "Slow Start",
+            "街角魔族",
+            "恋爱小行星",
+            "孤独摇滚",
+            "RPG不动产"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/Love Live! 虹咲学园校园偶像同好会.md",
+        "link": [
+            "Lovelive 系列"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/NEW GAME!.md",
+        "link": [
+            "动画工房",
+            "芳文社"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/TODO_电影列表.md",
+        "link": [
+            "霸王别姬",
+            "红高粱",
+            "海上钢琴师",
+            "速度与激情",
+            "漫威系列",
+            "《钢铁侠》",
+            "《黑豹》",
+            "《美国队长》",
+            "《雷神》",
+            "《复仇者联盟》",
+            "肖申克的救赎",
+            "拆弹部队",
+            "天国王朝",
+            "暴力街区",
+            "生化危机",
+            "千与千寻"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/TODO_电视剧列表.md",
+        "link": [
+            "《逃避虽可耻但有用》",
+            "Fargo",
+            "唐顿庄园",
+            "星际迷航：发现号",
+            "权力的游戏",
+            "甜蜜家园",
+            "生活大爆炸",
+            "老友记",
+            "破产姐妹",
+            "摩登家庭",
+            "行尸走肉"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/TODO_番剧列表.md",
+        "link": [
+            "2022-10月追番列表",
+            "暗杀教室",
+            "白箱",
+            "宝石之国",
+            "冰菓",
+            "此花亭奇谭",
+            "粗点心战争",
+            "调教咖啡厅",
+            "东京食尸鬼",
+            "动物新世代 BNA",
+            "恶魔人Crybaby",
+            "哥布林杀手",
+            "歌舞伎町夏洛克",
+            "工作细胞",
+            "公主连结 Re:Dive",
+            "攻壳机动队：SAC_2045",
+            "后街女孩",
+            "回复术士的重来人生",
+            "混沌武士",
+            "甲铁城的卡巴内瑞",
+            "街角魔族",
+            "进击的巨人",
+            "空挺Dragons",
+            "来自深渊",
+            "狼与香辛料",
+            "流汗吧！健身少女",
+            "龙与虎",
+            "猫娘乐园",
+            "没有黄段子的无聊世界",
+            "魔法禁书目录",
+            "魔物娘的医生",
+            "某科学的超电磁炮",
+            "某科学的一方通行",
+            "女高中生的虚度日常",
+            "亲吻姐姐",
+            "青春猪头少年不会梦到兔女郎学姐",
+            "FLCL",
+            "轻音少女",
+            "日常",
+            "日在校园",
+            "少女终末旅行",
+            "食戟之灵",
+            "兽娘动物园",
+            "双斩少女",
+            "四月是你的谎言",
+            "天降之物",
+            "天使降临到了我的身边！",
+            "徒然喜欢你",
+            "妄想学生会",
+            "为美好的世界献上祝福",
+            "我家的女仆太烦人了",
+            "我们仍未知道那天所看见的花的名字",
+            "无彩限的怪灵世界",
+            "五等分的新娘",
+            "舞伎家的料理人",
+            "小林家的龙女仆",
+            "邪神与厨二病少女 1/2",
+            "幸运星",
+            "炎炎消防队",
+            "一拳超人",
+            "异世界食堂",
+            "异兽魔都",
+            "异种族风俗娘评鉴指南",
+            "樱花任务",
+            "玉子市场",
+            "缘之空",
+            "斩!赤红之瞳",
+            "这个勇者明明超强却过分慎重",
+            "中二病也要谈恋爱",
+            "紫罗兰永恒花园",
+            "CLANNAD",
+            "COP CRAFT",
+            "DARLING in the FRANXX",
+            "DECA-DENCE",
+            "Fate stay night",
+            "Fate Zero",
+            "JOJO的奇妙冒险",
+            "Love Live! Super Star",
+            "NEW GAME!",
+            "Re：从零开始的异世界生活",
+            "环太平洋黑色禁区",
+            "Slow Loop",
+            "白色相簿",
+            "白沙的水族馆",
+            "被神捡到的男人",
+            "笨蛋测试召唤兽",
+            "别对映像研出手！",
+            "不吉波普不笑",
+            "出包王女",
+            "雏子的笔记",
+            "吹响！上低音号",
+            "春原庄的管理人小姐",
+            "大人的防具店",
+            "电波女与青春男",
+            "盾之勇者成名录",
+            "多罗罗",
+            "放学后海堤日记",
+            "甘城光辉游乐园",
+            "钢之炼金术师",
+            "钢之炼金术师FA",
+            "高分少女",
+            "革命机valvrave",
+            "更衣人偶坠入爱河",
+            "鬼灭之刃",
+            "国王游戏",
+            "寒蝉鸣泣之时",
+            "寒蝉鸣泣之时·煌",
+            "寒蝉鸣泣之时·解",
+            "化物语",
+            "欢迎来到实力至上主义教室",
+            "辉夜大小姐想让我告白",
+            "会长是女仆大人",
+            "珈百璃的堕落",
+            "境界的彼方",
+            "来自多彩世界的明天",
+            "恋爱暴君",
+            "恋爱小行星",
+            "凉宫春日的忧郁",
+            "灵能百分百",
+            "路人女主的养成方法",
+            "萝球社",
+            "明日酱的水手服",
+            "命运石之门",
+            "命运石之门0",
+            "魔法科高中的劣等生",
+            "男子高中生的日常",
+            "南家三姐妹",
+            "南家三姐妹 欢迎回来",
+            "南家三姐妹 我回来了",
+            "南家三姐妹 再来一碗",
+            "普通攻击是全体二连击，这样的妈妈你喜欢吗",
+            "七人魔法使",
+            "齐木楠雄的灾难",
+            "千绪的通学路",
+            "请问您今天要来点兔子吗",
+            "日常系的异能战斗",
+            "赛马娘Pretty Derby",
+            "擅长捉弄的高木同学",
+            "少女与战车",
+            "社长，战斗的时间到了！",
+            "神推登上武道馆我就死而无憾",
+            "水果篮子",
+            "死亡笔记",
+            "天才麻将少女",
+            "铁路浪漫谭（爱上火车）",
+            "问题儿童都来自异世界?",
+            "我不是说了能力要平均值么！",
+            "我的狐仙女友",
+            "我的朋友很少",
+            "我的青春恋爱物语果然有问题",
+            "我们无法一起学习",
+            "无限斯特拉托斯",
+            "希德尼娅的骑士",
+            "新石纪",
+            "星掠者",
+            "熊熊勇闯异世界",
+            "学园孤岛",
+            "血界战线",
+            "亚人",
+            "摇曳百合",
+            "摇曳庄的幽奈小姐",
+            "樱花庄的宠物女孩",
+            "永生之酒",
+            "悠哉日常大王",
+            "游戏3人娘",
+            "约定的梦幻岛",
+            "约会大作战",
+            "在魔王城说晚安",
+            "宅男腐女恋爱真难",
+            "战栗杀机",
+            "只要长得可爱，即使是变态你也喜欢吗？",
+            "只有神知道的世界",
+            "终将成为你",
+            "咒術回戰",
+            "租借女友",
+            "罪恶王冠",
+            "佐贺偶像是传奇",
+            "BEASTARS",
+            "Love Live! 虹咲学园校园偶像同好会",
+            "Slow Start"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/《东北插班生》.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/宝石之国.md",
+        "link": [
+            "Orange"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/摇曳露营_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/日在校园.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/某科学的一方通行.md",
+        "link": [
+            "魔法禁书目录"
+        ]
+    },
+    {
+        "filename": "knowledge/我的小百科/影视/白箱.md",
+        "link": [
+            "P.A.Works",
+            "水岛努"
+        ]
+    },
+    {
+        "filename": "knowledge/拉格朗日点.md",
+        "link": [
+            "三体问题"
+        ]
+    },
+    {
+        "filename": "knowledge/拒绝服务攻击.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/Combination(Math).md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/Covariance协方差.md",
+        "link": [
+            "Variance方差"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/Euclidean distance.md",
+        "link": [
+            "欧几里得空间"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/Expectation期望值.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/Hessian Matrix.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/Homotopy Type Theory.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/Inner Product.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/Jacobian Matrix.md",
+        "link": [
+            "Partial Derivative",
+            "Partial Derivative",
+            "Gradient",
+            "Hessian Matrix"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/Manhattan distance.md",
+        "link": [
+            "Euclidean distance"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/Normalization.md",
+        "link": [
+            "Numpy"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/Partial Derivative.md",
+        "link": [
+            "Differential微分"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/Peano Axiom.md",
+        "link": [
+            "哥德尔不完备定理"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/Sparse Matrix.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/Sparse and Dense Network.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/三次数学危机 SUSPEND.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/微积分/Automatic Differentiation自动微分.md",
+        "link": [
+            "SciPy",
+            "Gradient",
+            "Jacobian Matrix"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/微积分/Differential微分.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/有趣的数学/微积分/Integral积分.md",
+        "link": [
+            "SciPy",
+            "Numpy"
+        ]
+    },
+    {
+        "filename": "knowledge/有趣的数学/微积分/微积分定理.md",
+        "link": [
+            "Integral积分",
+            "Differential微分"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/EverGreen Note_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/OOP并不适合游戏开发.md",
+        "link": [
+            "Object Oriented"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/Obsidian-Publish替代列表.md",
+        "link": [
+            "Python_TODO",
+            "NextJS"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/Socratic dialogue苏格拉底式对话 TODO.md",
+        "link": [
+            "Socratic Method"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/Texas hold'em.md",
+        "link": [
+            "桥牌"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/Time To Kill.md",
+        "link": [
+            "ARMA Series",
+            "Call of Duty Series",
+            "Battlefield Series"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/不锈钢_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/中国古代四大名著.md",
+        "link": [
+            "《三国演义》",
+            "《红楼梦》",
+            "《水浒传》",
+            "《西游记》",
+            "冯梦龙",
+            "《金瓶梅》"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/为什么需要屏幕保护程序.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/二八定律.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/互联网的墨菲定律.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/以太坊.md",
+        "link": [
+            "区块链"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/健身圈名梗.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/向内探寻和向外探索.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/大概率事件和时间.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/太平天国.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/Starlink.md",
+        "link": [
+            "SpaceX"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/固体火箭.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/太空航天相关的知识.md",
+        "link": [
+            "地球同步轨道",
+            "宇宙速度",
+            "拉格朗日点",
+            "霍曼转移轨道",
+            "引力弹弓",
+            "太阳风"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/太阳帆.md",
+        "link": [
+            "辐射压",
+            "霍尔推进器"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/太阳风.md",
+        "link": [
+            "太阳帆"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/引力弹弓.md",
+        "link": [
+            "《For All Mankind》"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/拉格朗日点.md",
+        "link": [
+            "三体问题"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/水火箭.md",
+        "link": [
+            "航天飞机",
+            "可回收火箭",
+            "气尖型喷嘴",
+            "矢量发动机"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/液体火箭.md",
+        "link": [
+            "SpaceX"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/火箭发动机_TODO.md",
+        "link": [
+            "喷气发动机"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/辐射压.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/太空/霍尔推进器.md",
+        "link": [
+            "Starlink"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/奇门遁甲.md",
+        "link": [
+            "洛书",
+            "九宫八卦",
+            "算命"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/庞氏骗局.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/意面酱汁.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/放射性元素的应用.md",
+        "link": [
+            "放射性和随机数|真随机数生成器",
+            "碳14纪年法|测定生物年龄"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/放射性和随机数.md",
+        "link": [
+            "伪随机数生成器",
+            "原子钟"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/Methodism.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/《权利法案》.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/东方基督教.md",
+        "link": [
+            "东罗马帝国",
+            "东正教会"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/光荣革命.md",
+        "link": [
+            "基督教会|新教",
+            "英国国教",
+            "天主教会",
+            "詹姆斯二世",
+            "威廉三世",
+            "威廉三世",
+            "约翰洛克",
+            "《政府论》",
+            "社会契约论",
+            "《权利法案》",
+            "君主立宪制",
+            "威廉三世"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/北欧神族.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/基督教会.md",
+        "link": [
+            "马丁路德",
+            "宗教改革运动",
+            "天主教会",
+            "西方基督教",
+            "天主教会",
+            "东正教会"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/基督教各派系的联系TODO.md",
+        "link": [
+            "基督教",
+            "基督教会",
+            "天主教会",
+            "西方基督教",
+            "东方基督教",
+            "天主教会",
+            "基督教会",
+            "东正教会"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/天主教会.md",
+        "link": [
+            "基督教会",
+            "罗马帝国分裂",
+            "西罗马帝国",
+            "东罗马帝国"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/太平天国.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/宗教改革运动.md",
+        "link": [
+            "马丁路德",
+            "东罗马帝国",
+            "马丁路德",
+            "英国内战",
+            "美国独立战争",
+            "法国大革命"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/斯图亚特王朝.md",
+        "link": [
+            "伊丽莎白一世",
+            "查理一世",
+            "英国内战"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/社会契约论.md",
+        "link": [
+            "托马斯霍布斯",
+            "约翰洛克",
+            "卢梭"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/英国内战.md",
+        "link": [
+            "英格兰王国",
+            "圆颅党",
+            "骑士党",
+            "查理一世",
+            "克伦威尔",
+            "克伦威尔",
+            "斯图亚特王朝",
+            "詹姆斯二世",
+            "詹姆斯二世",
+            "威廉三世",
+            "詹姆斯二世",
+            "光荣革命",
+            "威廉三世",
+            "《权利法案》",
+            "君主立宪制"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/英国国教.md",
+        "link": [
+            "圣公宗"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/文化&宗教/西方基督教.md",
+        "link": [
+            "基督教会",
+            "天主教会",
+            "东方基督教"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/斯图亚特王朝.md",
+        "link": [
+            "伊丽莎白一世",
+            "查理一世",
+            "英国内战"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/时空转换.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/核反应堆_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/氢燃料电池.md",
+        "link": [
+            "燃料电池"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/水火箭.md",
+        "link": [
+            "航天飞机",
+            "可回收火箭",
+            "气尖型喷嘴",
+            "矢量发动机"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/矢量发动机.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/破冰船的原理.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/碳14纪年法.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/笔记软件的对比.md",
+        "link": [
+            "Electron"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/类固醇.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/脉冲喷气发动机.md",
+        "link": [
+            "喷气发动机",
+            "涡轮喷气发动机"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/英国内战.md",
+        "link": [
+            "英格兰王国",
+            "圆颅党",
+            "骑士党",
+            "查理一世",
+            "克伦威尔",
+            "克伦威尔",
+            "斯图亚特王朝",
+            "詹姆斯二世",
+            "詹姆斯二世",
+            "威廉三世",
+            "詹姆斯二世",
+            "光荣革命",
+            "威廉三世",
+            "《权利法案》",
+            "君主立宪制"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/英国国教.md",
+        "link": [
+            "圣公宗"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/西方基督教.md",
+        "link": [
+            "基督教会",
+            "天主教会",
+            "东方基督教"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/账本和金融/记账法.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/账本和金融/货币贬值_TODO.md",
+        "link": [
+            "购买力"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/账本和金融/通货膨胀.md",
+        "link": [
+            "货币贬值_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/距离传感相机.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/随机分布、泊松定律和心理史学.md",
+        "link": [
+            "大概率事件和时间"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/食物/各种各样的意式咖啡（及衍生）.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/杂项知识/食物/意面的类型.md",
+        "link": [
+            "意面酱汁"
+        ]
+    },
+    {
+        "filename": "knowledge/杂项知识/食物/意面酱汁.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/核反应堆_TODO.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/概率.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-18.md",
+        "link": [
+            "V8 Sandbox",
+            "V8(Javascript Engine)",
+            "bun.js",
+            "Fresh Framework",
+            "Hydration",
+            "Server Side Rendering",
+            "Content Delivery Network|CDN"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-19.md",
+        "link": [
+            "Roc语言"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-20.md",
+        "link": [
+            "dotNet",
+            "dotNet",
+            "Garbage Collection",
+            "Java Virtual Machine",
+            "泛型"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-21.md",
+        "link": [
+            "Nix",
+            "V8 Sandbox",
+            "Javascript",
+            "Server Side Rendering",
+            "Java Server Page",
+            "PHP",
+            "Content Delivery Network|CDN",
+            "Hydration",
+            "Gleam",
+            "Caramel",
+            "Fable",
+            "Fsharp"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-22.md",
+        "link": [
+            "Million.js",
+            "VirtualDOM_TODO",
+            "Server Side Rendering",
+            "Nx",
+            "TurboRepo",
+            "Grain",
+            "Lobster",
+            "Links Language",
+            "Cogent",
+            "Vale",
+            "类型安全和内存安全有何联系",
+            "Koka",
+            "Unison"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-23.md",
+        "link": [
+            "CMS系统"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-24.md",
+        "link": [
+            "Chisel",
+            "Spring-Boot",
+            "Java",
+            "Spring-Framework",
+            "编译器的测试是如何实现的",
+            "Wolfram语言为什么不开源",
+            "eDSL"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-25.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-26.md",
+        "link": [
+            "CSharp",
+            "Javascript",
+            "CircleCI",
+            "PyPy"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-27.md",
+        "link": [
+            "Enso",
+            "LLVM"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-28.md",
+        "link": [
+            "LLVM",
+            "Computational Notebook"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-29.md",
+        "link": [
+            "Typescript",
+            "Zig",
+            "Pyscript",
+            "EverGreen Note_TODO",
+            "笔记软件的对比"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-30.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-07/2022-07-31.md",
+        "link": [
+            "投机性优化",
+            "On-Stack Replacement",
+            "Just in Time Compilation",
+            "静态链接和动态链接",
+            "NestJS",
+            "Spring-Framework",
+            "Decorator",
+            "Dependency-Injection"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-07目录.md",
+        "link": [
+            "2022-08目录"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-01.md",
+        "link": [
+            "静态链接和动态链接",
+            "静态页面生成器",
+            "开发工具库",
+            "Svelte",
+            "JAX",
+            "Machine Learning"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-02.md",
+        "link": [
+            "CookLang_TODO",
+            "Parser",
+            "Java",
+            "autoboxing"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-03.md",
+        "link": [
+            "Dungeons and Dragons",
+            "Service Worker",
+            "Javascript"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-04.md",
+        "link": [
+            "NoSQL",
+            "Java Virtual Machine",
+            "Computational Notebook",
+            "DarkLang"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-05.md",
+        "link": [
+            "Obsidian-Publish替代列表"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-06.md",
+        "link": [
+            "Pyjion_TODO",
+            "dotNet",
+            "PyPy",
+            "LLVM",
+            "Asteria Language",
+            "Javascript",
+            "Actionscript",
+            "Roguelike",
+            "Javascript",
+            "Java",
+            "Cache",
+            "Semantic",
+            "Nickel"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-07.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-08.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-09.md",
+        "link": [
+            "PHP",
+            "Sqlite_TODO",
+            "Astro"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-10.md",
+        "link": [
+            "Dungeons and Dragons|DND",
+            "Fallout Series_TODO|辐射"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-11.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-12.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-13.md",
+        "link": [
+            "Container容器|容器",
+            "Virgo"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-14.md",
+        "link": [
+            "王海川",
+            "王嘉奇",
+            "甘宇頔",
+            "南冬昀",
+            "王嘉奇",
+            "2022-08-15",
+            "王嘉奇",
+            "教发小写爬虫的故事"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-15.md",
+        "link": [
+            "王嘉奇"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-16.md",
+        "link": [
+            "Puppeteer",
+            "Javascript",
+            "Headless",
+            "Playwright",
+            "Puppeteer"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-17.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-18.md",
+        "link": [
+            "Digital Garden",
+            "破冰船的原理"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-19.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-20.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-21.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-22.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-23.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-24.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-25.md",
+        "link": [
+            "CircleCI",
+            "System-on-Wafer",
+            "庞氏骗局",
+            "Digital Garden",
+            "Brainfuck",
+            "Just in Time Compilation|JIT",
+            "Just in Time Compilation|JIT",
+            "万智牌",
+            "图灵完备"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-26.md",
+        "link": [
+            "Devbox",
+            "Nix"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-27.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-28.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-29.md",
+        "link": [
+            "Typescript",
+            "Lua",
+            "CICD_TODO",
+            "不同Docker镜像的对比",
+            "Solaris"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-30.md",
+        "link": [
+            "Scheme",
+            "Functional"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08/2022-08-31.md",
+        "link": [
+            "React",
+            "React",
+            "Vue",
+            "Foundation Model",
+            "Texas hold'em"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-08目录.md",
+        "link": [
+            "2022-09目录"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-01.md",
+        "link": [
+            "常见药物的疗效",
+            "水火箭"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-02.md",
+        "link": [
+            "Spring-Framework",
+            "Java并没有想象的那么臃肿",
+            "Type Theory"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-03.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-04.md",
+        "link": [
+            "React",
+            "Typescript",
+            "Typescript",
+            "Typescript",
+            "JSDoc",
+            "Javascript",
+            "Type Checking",
+            "Haxe"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-05.md",
+        "link": [
+            "段欣越",
+            "疏义韬",
+            "Woodlands公寓"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-06.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-07.md",
+        "link": [
+            "王海川",
+            "段欣越"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-08.md",
+        "link": [
+            "段欣越"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-09.md",
+        "link": [
+            "段欣越",
+            "段欣越"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-10.md",
+        "link": [
+            "Woodlands公寓",
+            "Glasgow Library",
+            "Svelte",
+            "Zig",
+            "C",
+            "Zig",
+            "Racket",
+            "Lambda演算",
+            "段欣越"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-11.md",
+        "link": [
+            "段欣越",
+            "徐嘉琪"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-12.md",
+        "link": [
+            "Glasgow Library",
+            "段欣越",
+            "Java容器"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-13.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-14.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-15.md",
+        "link": [
+            "Boyd Orr Building"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-16.md",
+        "link": [
+            "黄寅枫"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-17.md",
+        "link": [
+            "黄寅枫"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-18.md",
+        "link": [
+            "类固醇",
+            "健身圈名梗",
+            "黄寅枫"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-19.md",
+        "link": [
+            "Numpy",
+            "抽象代数"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-20.md",
+        "link": [
+            "Boyd Orr Building"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-21.md",
+        "link": [
+            "University of Glasgow",
+            "2022-09-24",
+            "王海川",
+            "王嘉奇",
+            "甘宇頔"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-22.md",
+        "link": [
+            "WasmTime",
+            "WebAssembly",
+            "Sqlite_TODO",
+            "FUSE文件系统_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-23.md",
+        "link": [
+            "疏义韬",
+            "黄寅枫",
+            "黄寅枫",
+            "太吾绘卷"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-24.md",
+        "link": [
+            "黄寅枫",
+            "疏义韬"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-25.md",
+        "link": [
+            "Rust_TODO",
+            "Nix"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-26.md",
+        "link": [
+            "Ruby",
+            "Type Checking",
+            "LLVM",
+            "Ahead Of Time Compilation"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-27.md",
+        "link": [
+            "Glasgow Library"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-28.md",
+        "link": [
+            "word2vec"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-29.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-09/2022-09-30.md",
+        "link": [
+            "Terraria"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-09目录.md",
+        "link": [
+            "2022-10目录"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-01.md",
+        "link": [
+            "Woodlands公寓"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-02.md",
+        "link": [
+            "Methodism",
+            "基督教各派系的联系TODO",
+            "Nix",
+            "DSL",
+            "尚小青",
+            "Python Stub"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-03.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-04.md",
+        "link": [
+            "Think in Bayes"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-05.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-06.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-07.md",
+        "link": [
+            "Socratic dialogue苏格拉底式对话 TODO",
+            "MDX",
+            "Stable Diffusion"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-08.md",
+        "link": [
+            "梁硕易"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-09.md",
+        "link": [
+            "《东北插班生》",
+            "文化作品中的“开门”"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-10.md",
+        "link": [
+            "Boyd Orr Building"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-11.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-12.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-13.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-14.md",
+        "link": [
+            "inNative",
+            "WebAssembly",
+            "Ahead Of Time Compilation",
+            "C",
+            "Meta",
+            "Rust_TODO",
+            "MercurialSCM",
+            "Rust_TODO",
+            "绝对伏特加",
+            "鸡尾酒",
+            "C",
+            "Nix",
+            "edolstra-phd-thesis.pdf",
+            "Typescript",
+            "对象存储",
+            "FPGA",
+            "Haskell",
+            "Nix",
+            "Nix"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-15.md",
+        "link": [
+            "《命运石之门》"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-16.md",
+        "link": [
+            "《命运石之门0》",
+            "《东北插班生》"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-17.md",
+        "link": [
+            "李琛",
+            "沈泽宇",
+            "李琛",
+            "Apache Kafka"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-18.md",
+        "link": [
+            "Typescript",
+            "基础设施即代码",
+            "配置语言"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-19.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-20.md",
+        "link": [
+            "2022-10月追番列表",
+            "FaunaDB"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-21.md",
+        "link": [
+            "Github Copilot"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-22.md",
+        "link": [
+            "刘臻"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-23.md",
+        "link": [
+            "李琛",
+            "DuckDB",
+            "Poetry",
+            "Python_TODO",
+            "PDM",
+            "Python_TODO"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-24.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-25.md",
+        "link": [
+            "Rimworld",
+            "Disco Elysium",
+            "Elder Scrolls Skyrim"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-26.md",
+        "link": [
+            "Woodlands公寓",
+            "Boyd Orr Building"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-27.md",
+        "link": [
+            "Javascript",
+            "Obsidian-Publish替代列表",
+            "NextJS",
+            "Rhino",
+            "Javascript",
+            "Java Virtual Machine"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-28.md",
+        "link": [
+            "Glasgow Learning Hub"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-29.md",
+        "link": [
+            "Glasgow School of Education",
+            "Glasgow Library",
+            "Glasgow Learning Hub",
+            "静态页面生成器"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-30.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-10/2022-10-31.md",
+        "link": [
+            "Node.js",
+            "静态页面生成器的支持格式"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-10目录.md",
+        "link": [
+            "2022-11目录"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-01.md",
+        "link": [
+            "太空航天相关的知识",
+            "地球同步轨道",
+            "拉格朗日点",
+            "Stable Diffusion",
+            "Libuv",
+            "火箭发动机_TODO",
+            "GPT"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-02.md",
+        "link": [
+            "Glasgow Library",
+            "GPT",
+            "Dungeons and Dragons"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-03.md",
+        "link": [
+            "Vue",
+            "等离子发电"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-04.md",
+        "link": [
+            "Glasgow Library",
+            "文档即代码",
+            "脉冲喷气发动机"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-05.md",
+        "link": [
+            "Bottle.py",
+            "Python_TODO",
+            "Web Framework",
+            "Glasgow Library",
+            "奇门遁甲"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-06.md",
+        "link": [
+            "Glasgow Library",
+            "李琛"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-07.md",
+        "link": [
+            "Glasgow Library",
+            "Kotlin"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-08.md",
+        "link": [
+            "Glasgow Library"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-09.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-10.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-11.md",
+        "link": [
+            "Starlink",
+            "Sqlite_TODO",
+            "DuckDB"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-12.md",
+        "link": [
+            "Stable Diffusion",
+            "2022-11-01",
+            "Javascript",
+            "仓库分析工具",
+            "设计模式"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-13.md",
+        "link": [
+            "Haskell",
+            "Typescript"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-14.md",
+        "link": [
+            "Glasgow Library"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-15.md",
+        "link": [
+            "Glasgow Library"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-16.md",
+        "link": [
+            "ES4X",
+            "Java",
+            "CommonJS和ESM",
+            "Kotlin",
+            "Computer Science/Bayes Theorem",
+            "TensorFlow"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-17.md",
+        "link": [
+            "Functional",
+            "仓库分析工具"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-18.md",
+        "link": [
+            "JAX",
+            "TensorFlow",
+            "GPT"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-19.md",
+        "link": [
+            "李琛",
+            "使用Nextjs构建Blog的可行性",
+            "Notion",
+            "仓库分析工具",
+            "Notion"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-20.md",
+        "link": [
+            "Notion",
+            "贴地飞行为什么可以躲开雷达探测"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-21.md",
+        "link": [
+            "Web上不同的渲染方案",
+            "雷电接口"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-22.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-23.md",
+        "link": [
+            "2022-11-24"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-24.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-25.md",
+        "link": [
+            "solidJS"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-26.md",
+        "link": [
+            "NextJS",
+            "NestJS",
+            "OpenAPI",
+            "Swagger",
+            "Obsidian-Publish替代列表"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-27.md",
+        "link": [
+            "Evil West"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-28.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-29.md",
+        "link": [
+            "Boyd Orr Building",
+            "NextJS",
+            "Server Side Rendering"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11/2022-11-30.md",
+        "link": [
+            "Boyd Orr Building",
+            "React"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-11目录.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/每月/2022-12-01.md",
+        "link": [
+            "Remix",
+            "React",
+            "NextJS",
+            "仓库分析工具"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-12-02.md",
+        "link": [
+            "李琛",
+            "Boyd Orr Building"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-12-03.md",
+        "link": [
+            "Glasgow Library",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-12-04.md",
+        "link": [
+            "Glasgow Library",
+            "Transformer Model"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-12-05.md",
+        "link": [
+            "Boyd Orr Building"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-12-06.md",
+        "link": [
+            "Boyd Orr Building",
+            "solidJS"
+        ]
+    },
+    {
+        "filename": "knowledge/每月/2022-12-07.md",
+        "link": [
+            "Boyd Orr Building"
+        ]
+    },
+    {
+        "filename": "knowledge/火箭发动机_TODO.md",
+        "link": [
+            "喷气发动机"
+        ]
+    },
+    {
+        "filename": "knowledge/现在的方向.md",
+        "link": [
+            "马天才"
+        ]
+    },
+    {
+        "filename": "knowledge/脉冲喷气发动机.md",
+        "link": [
+            "喷气发动机",
+            "涡轮喷气发动机"
+        ]
+    },
+    {
+        "filename": "knowledge/调用约定.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/贴地飞行为什么可以躲开雷达探测.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/阻塞和非阻塞.md",
+        "link": []
+    },
+    {
+        "filename": "knowledge/霍尔推进器.md",
+        "link": [
+            "等离子"
+        ]
+    }
+]
